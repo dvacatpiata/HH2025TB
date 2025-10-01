@@ -1,0 +1,1001 @@
+trip_id,person_id,household_id,age,sex,employment,purpose,mode,duration_min,distance_km,num_persons,household_income,car_ownership
+2118961591,2118961591,211896159,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2118961592,2118961592,211896159,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2118985811,2118985811,211898581,36-45 years,Man,Working at both main and side jobs,Usual workplace,Car as driver,180.0,45.0,2,1.226524444430224,One
+2118985812,2118985812,211898581,18-24 years,Man,Student (of university or vocational college),University,Metro,30.0,7.5,2,1.3467554790918572,None
+2118991101,2118991101,211899110,25-35 years,Woman,In maternity leave,Health center/Doctor,Walking,20.0,5.0,1,1.0405488309535824,None
+2118996601,2118996601,211899660,56-65 years,Woman,"Retired, not working",I was out of town/ I came from the region,Car as passenger,240.0,60.0,1,0.6254296922541548,None
+2118997181,2118997181,211899718,56-65 years,Man,"Retired, but working",Health center/Doctor,Car as driver,120.0,30.0,1,0.4667548951516666,One
+2118997621,2118997621,211899762,46-55 years,Woman,Housewife/ houseman,Domicile,Car as passenger,60.0,15.0,1,0.8987541627278769,None
+2118997631,2118997631,211899763,46-55 years,Woman,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,15.0,3.75,3,0.8987541627278769,None
+2118997632,2118997632,211899763,25-35 years,Woman,Freelancer,,,,,3,1.0405488309535824,None
+2118997633,2118997633,211899763,18-24 years,Woman,Housewife/ houseman,,,,,3,1.1680184442194046,None
+2118997641,2118997641,211899764,46-55 years,Woman,Working at full time job(s),"Daily needs shopping (in small nearby stores, on street markets etc)",Car as passenger,20.0,5.0,1,0.8987541627278769,One
+2119002501,2119002501,211900250,66 and more,Woman,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),10.0,2.5,1,0.5761899646958017,None
+2119002771,2119002771,211900277,66 and more,Woman,"Retired, not working",to express сondolences/at the funeral,Car as passenger,30.0,7.5,1,0.5761899646958017,None
+2119002781,2119002781,211900278,18-24 years,Man,Student (of university or vocational college),University,Bus (local bus),60.0,15.0,1,1.3467554790918572,None
+2119002791,2119002791,211900279,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2119002792,2119002792,211900279,66 and more,Man,Hard to answer,,,,,3,0.6578800871293811,None
+2119002794,2119002794,211900279,25-35 years,Man,"Unemployed, searching for job",Sport and body-care activities,Bus (local bus),10.0,2.5,3,1.5166038838578633,None
+2119004841,2119004841,211900484,66 and more,Man,"Retired, not working",,,,,2,0.6244196024451651,None
+2119004842,2119004842,211900484,66 and more,Woman,"Retired, not working",,,,,2,0.4584940686118703,None
+2119009861,2119009861,211900986,36-45 years,Woman,Housewife/ houseman,Accompanying/picking kids to/from school,Walking,20.0,5.0,1,0.8182308142103268,None
+2119010551,2119010551,211901055,66 and more,Woman,"Retired, not working","Services and administrative needs (city service centers, banks, etc)",Bus (local bus),15.0,3.75,1,4.44257048266213,None
+2119010561,2119010561,211901056,66 and more,Woman,"Retired, not working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),40.0,10.0,1,4.44257048266213,None
+2119013631,2119013631,211901363,25-35 years,Man,Working at full time job(s),Not usual workplace/ on some work tasks,Car as driver,30.0,7.5,1,1.6062940663142846,One
+2119017461,2119017461,211901746,25-35 years,Man,"Unemployed, searching for job","Daily needs shopping (in small nearby stores, on street markets etc)",Car as driver,40.0,10.0,1,1.5166038838578633,None
+2119017611,2119017611,211901761,66 and more,Man,"Retired, not working",Usual workplace,Walking,15.0,3.75,1,0.6244196024451651,One
+2119025091,2119025091,211902509,25-35 years,Man,Working at part time job(s),Not usual workplace/ on some work tasks,Car as driver,40.0,10.0,1,1.5166038838578633,One
+2119028981,2119028981,211902898,46-55 years,Man,Working at full time job(s),Domicile,Bus (local bus),40.0,10.0,4,18.982593336235094,None
+2119028982,2119028982,211902898,46-55 years,Woman,Working at full time job(s),Usual workplace,"Shared transport provided by employer (shuttle, bus…)",60.0,15.0,4,8.23147982422885,None
+2119028983,2119028983,211902898,14-15 years,Woman,Both studying and working,,,,,4,5.9600316854111375,None
+2119028984,2119028984,211902898,14-15 years,Man,Studying at school,,,,,4,4.891959581209663,None
+2119029281,2119029281,211902928,25-35 years,Woman,Working at full time job(s),Usual workplace,Car as driver,15.0,3.75,1,1.0405488309535824,One
+2119031631,2119031631,211903163,66 and more,Woman,"Retired, but working",,,,,1,0.4584940686118703,None
+2119035651,2119035651,211903565,36-45 years,Woman,Housewife/ houseman,Not usual workplace/ on some work tasks,Any other,40.0,10.0,1,0.4790434840123388,One
+2119036171,2119036171,211903617,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,60.0,15.0,3,0.7090835932181876,One
+2119036172,2119036172,211903617,25-35 years,Woman,Housewife/ houseman,,,,,3,0.7612879330364337,None
+2119036173,2119036173,211903617,14-15 years,Woman,Studying at school,Courses/clubs/sections/other educational facilities,Bus (local bus),20.0,5.0,3,0.407376413635804,None
+2119039351,2119039351,211903935,18-24 years,Woman,Working at part time job(s),Secondary School,Bus (local bus),10.0,2.5,1,1.8292817959292689,None
+2119042061,2119042061,211904206,66 and more,Woman,Working at full time job(s),Domicile,Car as passenger,20.0,5.0,1,0.4584940686118703,None
+2119042311,2119042311,211904231,56-65 years,Man,"Unemployed, not searching for job",,,,,1,0.9454076260111136,None
+2119042351,2119042351,211904235,36-45 years,Woman,Housewife/ houseman,Secondary School,Car as passenger,5.0,1.25,2,0.4790434840123388,One
+2119042353,2119042353,211904235,14-15 years,Man,Studying at school,Sport and body-care activities,Bus (local bus),40.0,10.0,2,0.3552155412112441,None
+2119042361,2119042361,211904236,66 and more,Man,Working at full time job(s),,,,,1,0.6244196024451651,None
+2119042371,2119042371,211904237,56-65 years,Man,Working at full time job(s),,,,,1,0.4667548951516666,None
+2119042381,2119042381,211904238,66 and more,Woman,"Retired, not working",,,,,1,0.4584940686118703,None
+2119046201,2119046201,211904620,66 and more,Woman,Housewife/ houseman,Secondary School,Bus (local bus),15.0,3.75,1,0.5761899646958017,None
+2119046211,2119046211,211904621,36-45 years,Woman,Housewife/ houseman,,,,,1,0.8182308142103268,None
+2119046221,2119046221,211904622,18-24 years,Woman,Student (of university or vocational college),,,,,3,1.1680184442194046,None
+2119046222,2119046222,211904622,46-55 years,Woman,Housewife/ houseman,"Daily needs shopping (in small nearby stores, on street markets etc)",Metro,20.0,5.0,3,0.8987541627278769,None
+2119046223,2119046223,211904622,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2119047351,2119047351,211904735,25-35 years,Woman,Housewife/ houseman,"Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),50.0,12.5,2,1.0405488309535824,None
+2119047352,2119047352,211904735,25-35 years,Man,Working at part time job(s),Not usual workplace/ on some work tasks,Bus (local bus),60.0,15.0,2,1.5166038838578633,None
+2119051111,2119051111,211905111,46-55 years,Woman,"Unemployed, searching for job",,,,,1,0.8987541627278769,None
+2119052041,2119052041,211905204,66 and more,Woman,"Retired, but working",Sport and body-care activities,Bus (local bus),10.0,2.5,1,0.5761899646958017,None
+2119052241,2119052241,211905224,25-35 years,Woman,Working at part time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Marshrutka (local),60.0,15.0,1,0.7612879330364337,None
+2119053181,2119053181,211905318,36-45 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),10.0,2.5,4,0.8182308142103268,None
+2119053182,2119053182,211905318,46-55 years,Man,"Unemployed, searching for job","Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),30.0,7.5,4,1.318947547664047,None
+2119053183,2119053183,211905318,66 and more,Woman,"Retired, not working",,,,,4,0.5761899646958017,None
+2119053185,2119053185,211905318,18-24 years,Man,Student (of university or vocational college),University,Metro,50.0,12.5,4,1.3467554790918572,None
+2119063341,2119063341,211906334,56-65 years,Man,Collects different items,,,,,1,0.9454076260111136,None
+2119063351,2119063351,211906335,36-45 years,Woman,Housewife/ houseman,Domicile,Personal e-scooter (or another motorized light personal vehicle),20.0,5.0,1,0.8182308142103268,One
+2119063361,2119063361,211906336,36-45 years,Woman,Working at full time job(s),,,,,2,0.8182308142103268,None
+2119063363,2119063363,211906336,16-17 years,Man,Studying at school,Ttutor/student,Metro,30.0,7.5,2,0.9712376361785788,None
+2119063371,2119063371,211906337,18-24 years,Woman,Working at full time job(s),,,,,1,1.1680184442194046,None
+2119070311,2119070311,211907031,56-65 years,Woman,"Retired, but working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),10.0,2.5,1,0.6254296922541548,None
+2119071951,2119071951,211907195,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2119071961,2119071961,211907196,66 and more,Woman,"Retired, but working",,,,,1,0.5761899646958017,None
+2119071971,2119071971,211907197,36-45 years,Man,Working at full time job(s),Usual workplace,Any other,40.0,10.0,1,1.226524444430224,One
+2119071981,2119071981,211907198,36-45 years,Man,Working at full time job(s),Usual workplace,Walking,10.0,2.5,1,1.226524444430224,One
+2119074201,2119074201,211907420,18-24 years,Man,Student (of university or vocational college),,,,,1,1.3467554790918572,None
+2119074211,2119074211,211907421,46-55 years,Woman,Housewife/ houseman,,,,,1,0.8987541627278769,None
+2119074221,2119074221,211907422,25-35 years,Woman,Housewife/ houseman,Accompanying/picking kids to/from school,Car as driver,30.0,7.5,2,1.0405488309535824,One
+2119074222,2119074222,211907422,36-45 years,Man,"Unemployed, searching for job",,,,,2,1.226524444430224,None
+2119074231,2119074231,211907423,25-35 years,Woman,Housewife/ houseman,"Accompanying/picking kids to/from nursery, kindergarten",Marshrutka (local),10.0,2.5,1,1.0405488309535824,None
+2119079201,2119079201,211907920,56-65 years,Woman,Housewife/ houseman,,,,,2,0.6254296922541548,None
+2119079202,2119079202,211907920,36-45 years,Woman,Housewife/ houseman,Domicile,Marshrutka (local),20.0,5.0,2,0.8182308142103268,One
+2119079211,2119079211,211907921,66 and more,Woman,"Retired, not working",Health center/Doctor,Taxi passenger,60.0,15.0,2,0.5761899646958017,None
+2119079214,2119079214,211907921,18-24 years,Woman,Student (of university or vocational college),,,,,2,1.1680184442194046,None
+2119079221,2119079221,211907922,36-45 years,Woman,Housewife/ houseman,,,,,1,0.8182308142103268,None
+2119079231,2119079231,211907923,18-24 years,Woman,Student (of university or vocational college),"Accompanying/picking kids to/from nursery, kindergarten",Car as driver,15.0,3.75,2,1.1680184442194046,One
+2119079232,2119079232,211907923,18-24 years,Woman,Student (of university or vocational college),University,Bus (local bus),75.0,18.75,2,1.1680184442194046,One
+2119092421,2119092421,211909242,56-65 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),75.0,18.75,1,0.6254296922541548,None
+2119096331,2119096331,211909633,66 and more,Woman,"Retired, not working",Domicile,Metro,60.0,15.0,1,0.5761899646958017,None
+2119104361,2119104361,211910436,56-65 years,Woman,Housewife/ houseman,Health center/Doctor,Walking,20.0,5.0,1,0.6254296922541548,None
+2119104371,2119104371,211910437,36-45 years,Woman,Housewife/ houseman,,,,,1,0.8182308142103268,None
+2119104381,2119104381,211910438,66 and more,Man,Working at full time job(s),Usual workplace,Car as driver,90.0,22.5,1,0.6578800871293811,One
+2119104391,2119104391,211910439,46-55 years,Woman,Housewife/ houseman,,,,,1,0.8987541627278769,None
+2119104561,2119104561,211910456,46-55 years,Woman,Housewife/ houseman,University,Marshrutka (local),100.0,25.0,1,0.8987541627278769,None
+2119104571,2119104571,211910457,36-45 years,Woman,Housewife/ houseman,Health center/Doctor,Bus (local bus),80.0,20.0,1,0.8182308142103268,None
+2119104581,2119104581,211910458,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,3,0.8987541627278769,None
+2119104582,2119104582,211910458,46-55 years,Man,Working at full time job(s),,,,,3,1.318947547664047,None
+2119104583,2119104583,211910458,18-24 years,Man,Student (of university or vocational college),University,Bus (local bus),60.0,15.0,3,1.3467554790918572,None
+2119104591,2119104591,211910459,36-45 years,Woman,Housewife/ houseman,Special School,Bus (local bus),30.0,7.5,1,0.8182308142103268,None
+2119111261,2119111261,211911126,36-45 years,Woman,Housewife/ houseman,Secondary School,Bus (local bus),40.0,10.0,2,0.8182308142103268,None
+2119111264,2119111264,211911126,16-17 years,Man,Studying at school,,,,,2,0.9712376361785788,None
+2119111271,2119111271,211911127,36-45 years,Woman,Working at full time job(s),,,,,2,0.8182308142103268,None
+2119111272,2119111272,211911127,36-45 years,Man,"Unemployed, searching for job","Car service (service centres, fuel stations, carwash etc)",Car as driver,30.0,7.5,2,1.226524444430224,One
+2119111281,2119111281,211911128,25-35 years,Woman,Housewife/ houseman,Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),20.0,5.0,1,1.0405488309535824,None
+2119111291,2119111291,211911129,46-55 years,Woman,Working at full time job(s),Usual workplace,Car as passenger,10.0,2.5,2,0.8987541627278769,One
+2119111292,2119111292,211911129,46-55 years,Man,"Unemployed, searching for job",Spouse's job,Car as driver,10.0,2.5,2,1.318947547664047,One
+2119113841,2119113841,211911384,18-24 years,Man,Working at full time job(s),Domicile,Car as driver,20.0,5.0,4,1.4227692967430017,One
+2119113842,2119113842,211911384,18-24 years,Woman,Both studying and working,,,,,4,1.3947980289053323,None
+2119113844,2119113844,211911384,46-55 years,Woman,Working at full time job(s),Usual workplace,Car as passenger,25.0,6.25,4,0.9803635972195814,One
+2119113845,2119113845,211911384,16-17 years,Woman,Studying at school,,,,,4,0.6605522481665052,None
+2119114591,2119114591,211911459,46-55 years,Woman,Housewife/ houseman,Sport and body-care activities,Marshrutka (local),15.0,3.75,1,8.23147982422885,None
+2119114701,2119114701,211911470,66 and more,Woman,Working at part time job(s),,,,,1,0.4336121379415606,None
+2119114911,2119114911,211911491,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2119114921,2119114921,211911492,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2119115091,2119115091,211911509,25-35 years,Woman,Working at full time job(s),,,,,1,1.0405488309535824,None
+2119115101,2119115101,211911510,56-65 years,Man,"Retired, not working","Services and administrative needs (city service centers, banks, etc)",Marshrutka (local),60.0,15.0,1,0.9454076260111136,None
+2119115111,2119115111,211911511,66 and more,Man,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),40.0,10.0,1,0.6578800871293811,None
+2119115121,2119115121,211911512,25-35 years,Man,Working at full time job(s),"Visiting home of other people (parents, relatives, friends etc)",Car as driver,120.0,30.0,1,1.5166038838578633,One
+2119115131,2119115131,211911513,46-55 years,Man,Working at full time job(s),Usual workplace,Marshrutka (local),60.0,15.0,1,1.318947547664047,None
+2119126871,2119126871,211912687,66 and more,Woman,"Retired, but working",Domicile,Bus (local bus),5.0,1.25,1,0.5761899646958017,None
+2119126881,2119126881,211912688,66 and more,Man,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),15.0,3.75,1,0.6578800871293811,None
+2119126891,2119126891,211912689,66 and more,Man,"Retired, not working",,,,,1,0.6578800871293811,None
+2119126901,2119126901,211912690,46-55 years,Woman,"Unemployed, not searching for job",Secondary School,Bus (local bus),5.0,1.25,2,0.8987541627278769,None
+2119126902,2119126902,211912690,14-15 years,Woman,Studying at school,Secondary School,Bus (local bus),15.0,3.75,2,0.6792175002843309,None
+2119126911,2119126911,211912691,36-45 years,Man,"Unemployed, searching for job",,,,,2,1.226524444430224,None
+2119126912,2119126912,211912691,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2119131901,2119131901,211913190,36-45 years,Woman,Working at full time job(s),Usual workplace,Walking,15.0,3.75,2,0.8182308142103268,One
+2119131902,2119131902,211913190,46-55 years,Man,Working at full time job(s),Usual workplace,Walking,30.0,7.5,2,1.318947547664047,One
+2119136781,2119136781,211913678,56-65 years,Woman,Housewife/ houseman,,,,,2,0.6176219872727928,None
+2119136782,2119136782,211913678,56-65 years,Man,Person with Disabilities,,,,,2,0.7599740695517776,None
+2119149461,2119149461,211914946,36-45 years,Woman,Housewife/ houseman,,,,,3,0.5708711729343885,None
+2119149462,2119149462,211914946,18-24 years,Man,Student (of university or vocational college),University,Marshrutka (local),120.0,30.0,3,1.4227692967430017,None
+2119149463,2119149463,211914946,36-45 years,Man,"Unemployed, searching for job",,,,,3,1.08407325019841,None
+2119157181,2119157181,211915718,25-35 years,Woman,Working at full time job(s),Usual workplace,Car pickup (poputka),15.0,3.75,3,1.0405488309535824,None
+2119157182,2119157182,211915718,56-65 years,Woman,Working at part time job(s),,,,,3,0.6254296922541548,None
+2119157183,2119157183,211915718,56-65 years,Woman,Working at part time job(s),,,,,3,0.6254296922541548,None
+2119158371,2119158371,211915837,18-24 years,Woman,Working at part time job(s),Sport and body-care activities,Bus (local bus),30.0,7.5,5,1.1680184442194046,None
+2119158372,2119158372,211915837,18-24 years,Man,"Unemployed, not searching for job",,,,,5,1.3467554790918572,None
+2119158373,2119158373,211915837,18-24 years,Woman,Student (of university or vocational college),"Cultural site (cinema, theaters, concert hall)",Metro,25.0,6.25,5,1.1680184442194046,None
+2119158374,2119158374,211915837,46-55 years,Woman,Working at full time job(s),,,,,5,0.8987541627278769,None
+2119158375,2119158375,211915837,46-55 years,Man,Working at full time job(s),,,,,5,1.318947547664047,None
+2119160201,2119160201,211916020,66 and more,Woman,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Walking,20.0,5.0,2,0.5761899646958017,One
+2119160202,2119160202,211916020,36-45 years,Man,Working at full time job(s),Airport,Car as driver,45.0,11.25,2,1.226524444430224,One
+2119160491,2119160491,211916049,36-45 years,Woman,Working at full time job(s),,,,,4,0.8182308142103268,None
+2119160492,2119160492,211916049,66 and more,Man,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,4,0.6578800871293811,One
+2119160493,2119160493,211916049,66 and more,Woman,Working at full time job(s),,,,,4,0.5761899646958017,None
+2119160494,2119160494,211916049,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,20.0,5.0,4,1.226524444430224,One
+2119160501,2119160501,211916050,66 and more,Man,"Retired, not working",Church/other service,Bus (local bus),90.0,22.5,2,0.6578800871293811,None
+2119160502,2119160502,211916050,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2119163451,2119163451,211916345,56-65 years,Woman,Self-employed,"Services and administrative needs (city service centers, banks, etc)",Bus (local bus),40.0,10.0,1,4.44257048266213,None
+2119163461,2119163461,211916346,36-45 years,Woman,Housewife/ houseman,,,,,2,9.272475288187472,None
+2119163462,2119163462,211916346,18-24 years,Man,Student (of university or vocational college),University,Intercity marshrutka (regional and long-distance),90.0,22.5,2,11.07114517211258,None
+2119163471,2119163471,211916347,16-17 years,Woman,Studying at school,Secondary School,Walking,10.0,2.5,3,5.9600316854111375,None
+2119163472,2119163472,211916347,46-55 years,Woman,Working at part time job(s),,,,,3,8.23147982422885,None
+2119163473,2119163473,211916347,18-24 years,Man,"Unemployed, searching for job",,,,,3,11.07114517211258,None
+2119170231,2119170231,211917023,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,1,8.23147982422885,None
+2119181901,2119181901,211918190,66 and more,Man,Working at full time job(s),Domicile,Car as driver,90.0,22.5,3,4.885387311284171,One
+2119181902,2119181902,211918190,66 and more,Woman,"Retired, not working",Domicile,Car as passenger,90.0,22.5,3,4.44257048266213,One
+2119181903,2119181903,211918190,25-35 years,Woman,Housewife/ houseman,Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as passenger,15.0,3.75,3,16.907555589877518,None
+2119182541,2119182541,211918254,46-55 years,Woman,Housewife/ houseman,"Accompanying/picking kids to/from nursery, kindergarten",Bus (local bus),12.0,3.0,4,0.8987541627278769,None
+2119182543,2119182543,211918254,25-35 years,Woman,Self-employed,"Visiting home of other people (parents, relatives, friends etc)",Taxi passenger,15.0,3.75,4,1.0405488309535824,None
+2119182544,2119182544,211918254,25-35 years,Woman,Working at part time job(s),Usual workplace,Metro,90.0,22.5,4,1.0405488309535824,None
+2119182547,2119182547,211918254,66 and more,Woman,"Retired, not working",,,,,4,0.5761899646958017,None
+2119182551,2119182551,211918255,36-45 years,Woman,Self-employed,Secondary School,Walking,15.0,3.75,2,0.8182308142103268,None
+2119182552,2119182552,211918255,36-45 years,Man,Working at full time job(s),,,,,2,1.226524444430224,None
+2119184021,2119184021,211918402,66 and more,Man,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),20.0,5.0,1,0.6578800871293811,None
+2119184031,2119184031,211918403,36-45 years,Man,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,10.0,2.5,2,1.226524444430224,One
+2119184032,2119184032,211918403,36-45 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,2,0.8182308142103268,One
+2119184041,2119184041,211918404,18-24 years,Woman,Student (of university or vocational college),,,,,3,1.1680184442194046,None
+2119184042,2119184042,211918404,25-35 years,Man,Working at part time job(s),Usual workplace,Car as driver,30.0,7.5,3,1.5166038838578633,One
+2119184043,2119184043,211918404,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2119184051,2119184051,211918405,66 and more,Man,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,2,0.6578800871293811,None
+2119184052,2119184052,211918405,56-65 years,Woman,"Retired, not working",Secondary School,Bus (local bus),10.0,2.5,2,0.6254296922541548,One
+2119197121,2119197121,211919712,66 and more,Woman,"Retired, not working",Domicile,Walking,30.0,7.5,3,0.5761899646958017,One
+2119197122,2119197122,211919712,46-55 years,Man,"Unemployed, not searching for job",Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as driver,40.0,10.0,3,1.318947547664047,One
+2119197123,2119197123,211919712,46-55 years,Woman,"Retired, not working",,,,,3,0.8987541627278769,None
+2119197131,2119197131,211919713,25-35 years,Man,Working at full time job(s),Usual workplace,Metro,40.0,10.0,1,1.5166038838578633,None
+2119197141,2119197141,211919714,56-65 years,Woman,Housewife/ houseman,Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as passenger,60.0,15.0,1,0.6254296922541548,None
+2119202701,2119202701,211920270,46-55 years,Man,Working at part time job(s),Not usual workplace/ on some work tasks,Walking,20.0,5.0,5,18.982593336235094,None
+2119202702,2119202702,211920270,36-45 years,Woman,Housewife/ houseman,,,,,5,9.272475288187472,None
+2119202703,2119202703,211920270,18-24 years,Man,Student (of university or vocational college),,,,,5,11.07114517211258,None
+2119202704,2119202704,211920270,16-17 years,Man,Studying at school,,,,,5,4.549992901594249,None
+2119202705,2119202705,211920270,14-15 years,Man,Studying at school,,,,,5,4.891959581209663,None
+2119202931,2119202931,211920293,36-45 years,Man,Working at full time job(s),Not usual workplace/ on some work tasks,Car as driver,45.0,11.25,5,1.226524444430224,One
+2119202932,2119202932,211920293,66 and more,Man,"Retired, not working","Visiting home of other people (parents, relatives, friends etc)",Car as driver,25.0,6.25,5,0.6578800871293811,One
+2119202933,2119202933,211920293,14-15 years,Woman,Studying at school,Secondary School,Walking,20.0,5.0,5,0.6792175002843309,One
+2119202934,2119202934,211920293,36-45 years,Woman,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),20.0,5.0,5,0.8182308142103268,One
+2119202935,2119202935,211920293,66 and more,Woman,"Retired, not working",,,,,5,0.5761899646958017,None
+2119212531,2119212531,211921253,25-35 years,Woman,Working at part time job(s),,,,,1,1.0405488309535824,None
+2119212541,2119212541,211921254,56-65 years,Woman,Housewife/ houseman,,,,,1,0.6254296922541548,None
+2119212551,2119212551,211921255,36-45 years,Woman,Housewife/ houseman,Health center/Doctor,Bus (local bus),30.0,7.5,2,0.8182308142103268,None
+2119212552,2119212552,211921255,36-45 years,Man,Self-employed,,,,,2,1.226524444430224,None
+2119212561,2119212561,211921256,36-45 years,Woman,Housewife/ houseman,"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),80.0,20.0,1,0.8182308142103268,None
+2119212571,2119212571,211921257,46-55 years,Woman,Working at part time job(s),Usual workplace,Marshrutka (local),20.0,5.0,1,0.8987541627278769,None
+2119238431,2119238431,211923843,25-35 years,Woman,Working at part time job(s),Usual workplace,Metro,45.0,11.25,3,1.0405488309535824,None
+2119238432,2119238432,211923843,25-35 years,Woman,Working at full time job(s),,,,,3,1.0405488309535824,None
+2119238433,2119238433,211923843,25-35 years,Man,Working at full time job(s),Accompanying/picking kids to/from school,Car as driver,20.0,5.0,3,1.5166038838578633,One
+2119238551,2119238551,211923855,18-24 years,Woman,Working at part time job(s),Usual workplace,Bus (local bus),15.0,3.75,2,1.1680184442194046,None
+2119238552,2119238552,211923855,46-55 years,Woman,"Unemployed, not searching for job","Services and administrative needs (city service centers, banks, etc)",Marshrutka (local),25.0,6.25,2,0.8987541627278769,None
+2119268161,2119268161,211926816,56-65 years,Woman,Working at full time job(s),Usual workplace,Walking,10.0,2.5,1,0.6254296922541548,None
+2119268171,2119268171,211926817,36-45 years,Man,"Unemployed, not searching for job",,,,,4,1.226524444430224,None
+2119268172,2119268172,211926817,36-45 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),15.0,3.75,4,0.8182308142103268,None
+2119268173,2119268173,211926817,14-15 years,Woman,Studying at school,Secondary School,Walking,15.0,3.75,4,0.6792175002843309,None
+2119268174,2119268174,211926817,25-35 years,Man,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,4,1.5166038838578633,None
+2119431381,2119431381,211943138,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2119431382,2119431382,211943138,56-65 years,Woman,Working at part time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),90.0,22.5,2,0.6254296922541548,None
+2119435361,2119435361,211943536,46-55 years,Man,"Unemployed, searching for job",,,,,1,1.318947547664047,None
+2119442001,2119442001,211944200,25-35 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),30.0,7.5,1,1.0405488309535824,None
+2119447961,2119447961,211944796,66 and more,Woman,"Retired, not working",,,,,1,4.44257048266213,None
+2119447971,2119447971,211944797,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,95.0,23.75,2,18.982593336235094,One
+2119447972,2119447972,211944797,25-35 years,Woman,"Unemployed, not searching for job",,,,,2,16.907555589877518,None
+2119447981,2119447981,211944798,18-24 years,Woman,"Unemployed, not searching for job",,,,,1,13.82402214910604,None
+2119447991,2119447991,211944799,66 and more,Woman,"Retired, not working",,,,,1,4.44257048266213,None
+2119448001,2119448001,211944800,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,40.0,10.0,1,18.982593336235094,One
+2119449981,2119449981,211944998,66 and more,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),60.0,15.0,2,0.5761899646958017,None
+2119449982,2119449982,211944998,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2119493711,2119493711,211949371,66 and more,Woman,Working at full time job(s),Usual workplace,Bus (local bus),64.0,16.0,1,0.5761899646958017,None
+2119493721,2119493721,211949372,36-45 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),30.0,7.5,4,0.8182308142103268,None
+2119493722,2119493722,211949372,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,60.0,15.0,4,1.318947547664047,One
+2119493723,2119493723,211949372,66 and more,Woman,"Retired, not working",,,,,4,0.5761899646958017,None
+2119493724,2119493724,211949372,66 and more,Man,"Retired, not working",,,,,4,0.6578800871293811,None
+2119522971,2119522971,211952297,66 and more,Woman,"Retired, not working",,,,,4,0.5761899646958017,None
+2119522972,2119522972,211952297,36-45 years,Man,Working at full time job(s),Usual workplace,Walking,40.0,10.0,4,1.226524444430224,One
+2119522973,2119522973,211952297,36-45 years,Woman,In maternity leave,,,,,4,0.8182308142103268,None
+2119522974,2119522974,211952297,16-17 years,Woman,Studying at school,,,,,4,0.9085998630188142,None
+2119522981,2119522981,211952298,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2119522983,2119522983,211952298,46-55 years,Woman,Housewife/ houseman,Usual workplace,Walking,40.0,10.0,2,0.8987541627278769,One
+2119522991,2119522991,211952299,46-55 years,Woman,Working at full time job(s),,,,,1,0.8987541627278769,None
+2119538461,2119538461,211953846,36-45 years,Woman,"Unemployed, searching for job","Having a promenade around the city, in park etc (in this case in address question – state address of start of promena",Car as driver,20.0,5.0,2,0.8182308142103268,One
+2119538462,2119538462,211953846,14-15 years,Woman,Studying at school,,,,,2,0.6792175002843309,None
+2119538471,2119538471,211953847,18-24 years,Woman,Student (of university or vocational college),University,Metro,60.0,15.0,1,1.1680184442194046,None
+2119538481,2119538481,211953848,66 and more,Woman,"Retired, not working","Having a promenade around the city, in park etc (in this case in address question – state address of start of promena",Walking,40.0,10.0,1,0.5761899646958017,None
+2119567701,2119567701,211956770,36-45 years,Woman,Working at full time job(s),Usual workplace,Metro,60.0,15.0,1,0.8182308142103268,None
+2119567711,2119567711,211956771,36-45 years,Woman,Working at full time job(s),,,,,2,0.8182308142103268,None
+2119567712,2119567712,211956771,56-65 years,Woman,"Retired, not working",Health center/Doctor,Bus (local bus),30.0,7.5,2,0.6254296922541548,None
+2119567721,2119567721,211956772,66 and more,Woman,"Retired, but working",Secondary School,Bus (local bus),20.0,5.0,2,0.5761899646958017,None
+2119567722,2119567722,211956772,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2119579961,2119579961,211957996,46-55 years,Woman,Working at part time job(s),,,,,3,0.8987541627278769,None
+2119579962,2119579962,211957996,46-55 years,Man,Working at full time job(s),Domicile,Car as passenger,210.0,52.5,3,1.318947547664047,None
+2119579963,2119579963,211957996,25-35 years,Man,Working at part time job(s),,,,,3,1.5166038838578633,None
+2119589171,2119589171,211958917,25-35 years,Woman,Student (of university or vocational college),University,Metro,45.0,11.25,1,1.0405488309535824,None
+2119595761,2119595761,211959576,25-35 years,Woman,Self-employed,"Accompanying/picking kids to/from nursery, kindergarten",Walking,20.0,5.0,1,1.0405488309535824,None
+2119595771,2119595771,211959577,56-65 years,Woman,Working at part time job(s),Usual workplace,Bus (local bus),45.0,11.25,1,0.6254296922541548,None
+2119595781,2119595781,211959578,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,20.0,5.0,2,1.226524444430224,One
+2119595782,2119595782,211959578,36-45 years,Woman,Working at full time job(s),Usual workplace,Car as driver,20.0,5.0,2,0.8182308142103268,One
+2119606631,2119606631,211960663,56-65 years,Woman,"Retired, not working",,,,,2,0.6254296922541548,None
+2119606635,2119606635,211960663,14-15 years,Man,Studying at school,,,,,2,0.8838452498329735,None
+2119606661,2119606661,211960666,56-65 years,Woman,Owner or business,,,,,1,0.6254296922541548,None
+2119606671,2119606671,211960667,36-45 years,Woman,Self-employed,Domicile,Bus (local bus),60.0,15.0,3,0.8182308142103268,None
+2119606672,2119606672,211960667,56-65 years,Woman,"Retired, not working",Domicile,Bus (local bus),20.0,5.0,3,0.6254296922541548,None
+2119606673,2119606673,211960667,36-45 years,Man,"Unemployed, searching for job",,,,,3,1.226524444430224,None
+2119625761,2119625761,211962576,56-65 years,Woman,Working at full time job(s),Usual workplace,Car as passenger,20.0,5.0,1,0.6254296922541548,One
+2119625771,2119625771,211962577,66 and more,Woman,Working at both main and side jobs,Not usual workplace/ on some work tasks,"Ridehail passenger (services like Uber, Bolt, YandexTaxi etc.)",16.0,4.0,2,0.5761899646958017,None
+2119625772,2119625772,211962577,25-35 years,Man,Working at full time job(s),Usual workplace,Metro,30.0,7.5,2,1.5166038838578633,None
+2119625781,2119625781,211962578,36-45 years,Woman,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as passenger,20.0,5.0,2,0.8182308142103268,One
+2119625782,2119625782,211962578,25-35 years,Man,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as driver,20.0,5.0,2,1.5166038838578633,One
+2119635831,2119635831,211963583,56-65 years,Woman,"Retired, not working",,,,,2,0.6254296922541548,None
+2119635835,2119635835,211963583,14-15 years,Man,Studying at school,,,,,2,0.8838452498329735,None
+2119635841,2119635841,211963584,46-55 years,Woman,Housewife/ houseman,,,,,2,0.8987541627278769,None
+2119635842,2119635842,211963584,25-35 years,Man,"Retired, not working",,,,,2,1.5166038838578633,None
+2119635851,2119635851,211963585,46-55 years,Woman,Working at full time job(s),Usual workplace,Metro,30.0,7.5,2,0.8987541627278769,None
+2119635853,2119635853,211963585,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2119636601,2119636601,211963660,56-65 years,Woman,Working at full time job(s),,,,,2,0.6254296922541548,None
+2119636602,2119636602,211963660,25-35 years,Man,Working at full time job(s),Usual workplace,Bus (local bus),30.0,7.5,2,1.5166038838578633,None
+2119636611,2119636611,211963661,66 and more,Woman,Housewife/ houseman,Domicile,Bus (local bus),30.0,7.5,1,0.5761899646958017,None
+2119636621,2119636621,211963662,46-55 years,Man,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as driver,5.0,1.25,1,1.318947547664047,None
+2119636631,2119636631,211963663,66 and more,Woman,Working at full time job(s),Usual workplace,Bus (local bus),70.0,17.5,1,0.5761899646958017,None
+2119636641,2119636641,211963664,18-24 years,Woman,Student (of university or vocational college),Domicile,Bus (local bus),90.0,22.5,1,1.1680184442194046,None
+2119637401,2119637401,211963740,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),90.0,22.5,2,0.8987541627278769,None
+2119637402,2119637402,211963740,46-55 years,Woman,Working at part time job(s),"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),60.0,15.0,2,0.8987541627278769,None
+2119640901,2119640901,211964090,36-45 years,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),20.0,5.0,1,0.8182308142103268,None
+2119640911,2119640911,211964091,25-35 years,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),30.0,7.5,2,1.0405488309535824,None
+2119640913,2119640913,211964091,14-15 years,Woman,Studying at school,Secondary School,Bus (local bus),15.0,3.75,2,0.6792175002843309,None
+2119644921,2119644921,211964492,25-35 years,Man,"Unemployed, searching for job",Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,30.0,7.5,2,1.5166038838578633,None
+2119644922,2119644922,211964492,25-35 years,Woman,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,30.0,7.5,2,1.0405488309535824,None
+2119644931,2119644931,211964493,25-35 years,Woman,Working at part time job(s),Usual workplace,Metro,35.0,8.75,1,1.0405488309535824,None
+2119644941,2119644941,211964494,46-55 years,Man,Working at full time job(s),Domicile,Car as driver,60.0,15.0,1,1.318947547664047,One
+2119644951,2119644951,211964495,46-55 years,Woman,Working at full time job(s),Usual workplace,Car as passenger,45.0,11.25,2,0.8987541627278769,None
+2119644952,2119644952,211964495,46-55 years,Man,Working at full time job(s),,,,,2,1.318947547664047,None
+2119647591,2119647591,211964759,56-65 years,Man,Working at part time job(s),Sport and body-care activities,Bus (local bus),60.0,15.0,2,0.9454076260111136,None
+2119647593,2119647593,211964759,18-24 years,Man,Working at full time job(s),Usual workplace,Marshrutka (local),30.0,7.5,2,1.3467554790918572,None
+2119647601,2119647601,211964760,56-65 years,Man,Working at full time job(s),Usual workplace,"Two wheels personal motor vehicle (motorcycle, moped etc.)",40.0,10.0,2,0.9454076260111136,One
+2119647602,2119647602,211964760,46-55 years,Woman,"Unemployed, not searching for job",,,,,2,0.8987541627278769,None
+2119653121,2119653121,211965312,66 and more,Woman,"Retired, not working",Don't know,Intercity bus,45.0,11.25,3,0.5761899646958017,None
+2119653122,2119653122,211965312,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,15.0,3.75,3,1.318947547664047,One
+2119653123,2119653123,211965312,25-35 years,Woman,Working at full time job(s),Usual workplace,Intercity bus,60.0,15.0,3,1.0405488309535824,None
+2119653131,2119653131,211965313,25-35 years,Woman,Working at full time job(s),Usual workplace,Personal e-scooter (or another motorized light personal vehicle),60.0,15.0,2,1.0405488309535824,One
+2119653132,2119653132,211965313,56-65 years,Woman,"Retired, not working",,,,,2,0.6254296922541548,None
+2119671831,2119671831,211967183,25-35 years,Man,Working at full time job(s),Usual workplace,Bus (local bus),55.0,13.75,2,1.5166038838578633,None
+2119671832,2119671832,211967183,56-65 years,Woman,"Unemployed, not searching for job",,,,,2,0.6254296922541548,None
+2119671841,2119671841,211967184,25-35 years,Man,"Unemployed, searching for job","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),60.0,15.0,1,1.5166038838578633,None
+2119673301,2119673301,211967330,56-65 years,Woman,"Retired, not working",,,,,2,0.6254296922541548,None
+2119673302,2119673302,211967330,66 and more,Man,"Retired, not working",Free canteen for the socially vulnerable people,Bus (local bus),60.0,15.0,2,0.6578800871293811,None
+2119673311,2119673311,211967331,46-55 years,Woman,Housewife/ houseman,,,,,1,0.8987541627278769,None
+2119900631,2119900631,211990063,25-35 years,Woman,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as passenger,20.0,5.0,1,1.0405488309535824,One
+2119900711,2119900711,211990071,18-24 years,Woman,Working at part time job(s),Usual workplace,Walking,15.0,3.75,1,1.1680184442194046,None
+2119900801,2119900801,211990080,46-55 years,Woman,Housewife/ houseman,Accompanying/picking kids to/from courses/clubs/sections etc,Bus (local bus),30.0,7.5,1,0.8987541627278769,None
+2120619531,2120619531,212061953,66 and more,Man,"Retired, not working",Health center/Doctor,Bus (local bus),20.0,5.0,2,4.885387311284171,None
+2120619532,2120619532,212061953,66 and more,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,2,4.44257048266213,None
+2120619541,2120619541,212061954,36-45 years,Man,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),35.0,8.75,1,18.982593336235094,None
+2120619551,2120619551,212061955,18-24 years,Woman,Housewife/ houseman,Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as passenger,15.0,3.75,1,13.82402214910604,One
+2120627221,2120627221,212062722,25-35 years,Woman,Working at full time job(s),Usual workplace,Taxi passenger,45.0,11.25,1,1.0405488309535824,None
+2120632901,2120632901,212063290,25-35 years,Woman,In maternity leave,Health center/Doctor,Metro,30.0,7.5,1,1.0405488309535824,None
+2120639471,2120639471,212063947,16-17 years,Woman,Student (of university or vocational college),University,Metro,60.0,15.0,2,0.9085998630188142,None
+2120639472,2120639472,212063947,18-24 years,Woman,Working at full time job(s),,,,,2,1.1680184442194046,None
+2120642541,2120642541,212064254,25-35 years,Woman,In maternity leave,,,,,1,1.0405488309535824,None
+2120644731,2120644731,212064473,18-24 years,Woman,Student (of university or vocational college),University,Bus (local bus),60.0,15.0,1,1.1680184442194046,None
+2120647591,2120647591,212064759,25-35 years,Man,Working at full time job(s),Usual workplace,Car as driver,20.0,5.0,1,1.5166038838578633,One
+2120648911,2120648911,212064891,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2120648912,2120648912,212064891,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2120656721,2120656721,212065672,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2120665091,2120665091,212066509,56-65 years,Woman,"Retired, but working",Meeting a friend (on the street),Taxi passenger,30.0,7.5,1,0.6254296922541548,One
+2120666551,2120666551,212066655,56-65 years,Woman,"Retired, not working",Domicile,Bus (local bus),60.0,15.0,1,0.6254296922541548,One
+2120666561,2120666561,212066656,56-65 years,Woman,Housewife/ houseman,,,,,3,0.6254296922541548,None
+2120666563,2120666563,212066656,25-35 years,Man,"Unemployed, not searching for job",,,,,3,1.5166038838578633,None
+2120666564,2120666564,212066656,25-35 years,Woman,Working at part time job(s),"Having a promenade around the city, in park etc (in this case in address question – state address of start of promena",Walking,30.0,7.5,3,1.0405488309535824,One
+2120666571,2120666571,212066657,66 and more,Man,"Retired, not working",,,,,3,0.6578800871293811,None
+2120666572,2120666572,212066657,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2120666573,2120666573,212066657,36-45 years,Woman,Student (of university or vocational college),Sport and body-care activities,Walking,5.0,1.25,3,0.8182308142103268,None
+2120672541,2120672541,212067254,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2120672901,2120672901,212067290,66 and more,Woman,"Retired, not working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),20.0,5.0,1,0.5761899646958017,None
+2120685501,2120685501,212068550,25-35 years,Woman,"Unemployed, searching for job","Daily needs shopping (in small nearby stores, on street markets etc)",Walking,15.0,3.75,3,1.0405488309535824,None
+2120685502,2120685502,212068550,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2120685503,2120685503,212068550,25-35 years,Man,"Unemployed, not searching for job",Domicile,Car as passenger,15.0,3.75,3,1.5166038838578633,None
+2120686091,2120686091,212068609,46-55 years,Man,Working at full time job(s),Secondary School,Car as driver,10.0,2.5,1,1.318947547664047,One
+2120688611,2120688611,212068861,36-45 years,Woman,Working at full time job(s),,,,,1,0.8182308142103268,None
+2120692461,2120692461,212069246,46-55 years,Woman,Working at full time job(s),Usual workplace,Car as driver,60.0,15.0,3,0.8987541627278769,One
+2120692463,2120692463,212069246,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2120692464,2120692464,212069246,16-17 years,Man,Studying at school,Domicile,Bus (local bus),95.0,23.75,3,0.9712376361785788,None
+2120692471,2120692471,212069247,66 and more,Man,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,3,0.6578800871293811,None
+2120692472,2120692472,212069247,66 and more,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,3,0.5761899646958017,None
+2120692473,2120692473,212069247,46-55 years,Woman,Housewife/ houseman,,,,,3,0.8987541627278769,None
+2120692481,2120692481,212069248,25-35 years,Woman,Working at full time job(s),,,,,2,1.0405488309535824,None
+2120692482,2120692482,212069248,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2120693521,2120693521,212069352,46-55 years,Woman,"Unemployed, not searching for job","Daily needs shopping (in small nearby stores, on street markets etc)",Walking,15.0,3.75,3,0.8987541627278769,One
+2120693522,2120693522,212069352,18-24 years,Man,Working at full time job(s),University,Car as driver,110.0,27.5,3,1.3467554790918572,One
+2120693523,2120693523,212069352,16-17 years,Man,Studying at school,Courses/clubs/sections/other educational facilities,Walking,10.0,2.5,3,0.9712376361785788,One
+2120704701,2120704701,212070470,36-45 years,Woman,Working at part time job(s),"Accompanying/picking kids to/from nursery, kindergarten",Walking,15.0,3.75,2,0.8182308142103268,None
+2120704702,2120704702,212070470,36-45 years,Man,Working at full time job(s),Not usual workplace/ on some work tasks,Bus (local bus),90.0,22.5,2,1.226524444430224,None
+2120705061,2120705061,212070506,16-17 years,Man,Student (of university or vocational college),University,Walking,30.0,7.5,2,0.9712376361785788,None
+2120705062,2120705062,212070506,18-24 years,Man,Student (of university or vocational college),,,,,2,1.3467554790918572,None
+2120705661,2120705661,212070566,18-24 years,Woman,Student (of university or vocational college),,,,,2,1.1680184442194046,None
+2120705662,2120705662,212070566,18-24 years,Woman,Student (of university or vocational college),Secondary School,Bus (local bus),15.0,3.75,2,1.1680184442194046,None
+2120705671,2120705671,212070567,56-65 years,Woman,"Unemployed, not searching for job",,,,,3,0.6254296922541548,None
+2120705672,2120705672,212070567,66 and more,Man,"Retired, not working",,,,,3,0.6578800871293811,None
+2120705673,2120705673,212070567,25-35 years,Woman,Working at full time job(s),,,,,3,1.0405488309535824,None
+2120705681,2120705681,212070568,66 and more,Woman,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,1,0.5761899646958017,None
+2120705691,2120705691,212070569,56-65 years,Woman,Working at full time job(s),,,,,1,0.6254296922541548,None
+2120705701,2120705701,212070570,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2120705711,2120705711,212070571,25-35 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),120.0,30.0,1,1.0405488309535824,None
+2120705721,2120705721,212070572,56-65 years,Woman,Working at full time job(s),,,,,1,0.6254296922541548,None
+2120705731,2120705731,212070573,46-55 years,Woman,Working at full time job(s),,,,,1,0.8987541627278769,None
+2120705741,2120705741,212070574,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,1,1.318947547664047,One
+2120705751,2120705751,212070575,25-35 years,Woman,"Unemployed, searching for job",Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as passenger,20.0,5.0,2,1.0405488309535824,One
+2120705752,2120705752,212070575,36-45 years,Man,Self-employed,Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as driver,30.0,7.5,2,1.226524444430224,One
+2120705761,2120705761,212070576,18-24 years,Woman,Student (of university or vocational college),,,,,2,1.1680184442194046,None
+2120705762,2120705762,212070576,18-24 years,Woman,Student (of university or vocational college),University,Bus (local bus),90.0,22.5,2,1.1680184442194046,None
+2120708931,2120708931,212070893,25-35 years,Woman,"Unemployed, not searching for job",Accompanying/picking kids to/from school,Walking,15.0,3.75,1,1.0405488309535824,One
+2120719201,2120719201,212071920,46-55 years,Man,Working at both main and side jobs,,,,,1,1.318947547664047,None
+2120735911,2120735911,212073591,46-55 years,Woman,Housewife/ houseman,Health center/Doctor,Walking,75.0,18.75,3,0.8987541627278769,One
+2120735912,2120735912,212073591,25-35 years,Woman,"Unemployed, searching for job",Health center/Doctor,Car as driver,30.0,7.5,3,1.0405488309535824,One
+2120735913,2120735913,212073591,18-24 years,Woman,Student (of university or vocational college),,,,,3,1.1680184442194046,None
+2120746871,2120746871,212074687,36-45 years,Woman,Working at full time job(s),Secondary School,Walking,18.0,4.5,1,0.8182308142103268,One
+2120765621,2120765621,212076562,46-55 years,Woman,Housewife/ houseman,,,,,2,0.8987541627278769,None
+2120765622,2120765622,212076562,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2120765631,2120765631,212076563,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2120765641,2120765641,212076564,25-35 years,Woman,Housewife/ houseman,,,,,1,1.0405488309535824,None
+2120765651,2120765651,212076565,36-45 years,Woman,Housewife/ houseman,Don't know,Marshrutka (local),120.0,30.0,1,0.8182308142103268,None
+2120765661,2120765661,212076566,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2120765671,2120765671,212076567,36-45 years,Woman,Housewife/ houseman,,,,,1,0.8182308142103268,None
+2120771341,2120771341,212077134,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2120771351,2120771351,212077135,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2120771352,2120771352,212077135,56-65 years,Man,"Unemployed, searching for job",,,,,2,0.9454076260111136,None
+2120771361,2120771361,212077136,56-65 years,Woman,"Retired, not working",,,,,2,0.6254296922541548,None
+2120771362,2120771362,212077136,66 and more,Man,Working at full time job(s),Usual workplace,Car as driver,60.0,15.0,2,0.6578800871293811,One
+2120771371,2120771371,212077137,66 and more,Man,"Retired, not working","Having a promenade around the city, in park etc (in this case in address question – state address of start of promena",Bus (local bus),40.0,10.0,1,0.6578800871293811,None
+2120771381,2120771381,212077138,56-65 years,Man,Working at part time job(s),Usual workplace,Car as driver,40.0,10.0,3,0.9454076260111136,One
+2120771382,2120771382,212077138,56-65 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),30.0,7.5,3,0.6254296922541548,None
+2120771383,2120771383,212077138,25-35 years,Woman,Working at part time job(s),,,,,3,1.0405488309535824,None
+2120779391,2120779391,212077939,36-45 years,Woman,Housewife/ houseman,Health center/Doctor,Car as passenger,75.0,18.75,1,0.8182308142103268,One
+2120781611,2120781611,212078161,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2120781612,2120781612,212078161,66 and more,Man,"Retired, not working",,,,,3,0.6578800871293811,None
+2120781613,2120781613,212078161,36-45 years,Woman,Working at full time job(s),Usual workplace,Car as driver,10.0,2.5,3,0.8182308142103268,One
+2120812671,2120812671,212081267,25-35 years,Woman,Housewife/ houseman,Secondary School,Metro,30.0,7.5,1,1.0405488309535824,None
+2120812701,2120812701,212081270,56-65 years,Woman,Housewife/ houseman,,,,,3,0.6254296922541548,None
+2120812703,2120812703,212081270,18-24 years,Woman,Student (of university or vocational college),University,Metro,50.0,12.5,3,1.1680184442194046,None
+2120812704,2120812704,212081270,16-17 years,Woman,Student (of university or vocational college),University,Metro,30.0,7.5,3,0.9085998630188142,None
+2120812711,2120812711,212081271,56-65 years,Man,"Unemployed, searching for job",,,,,1,0.9454076260111136,None
+2120812721,2120812721,212081272,25-35 years,Man,Working at full time job(s),Usual workplace,Metro,60.0,15.0,1,1.5166038838578633,None
+2120814441,2120814441,212081444,56-65 years,Man,Working at full time job(s),Usual workplace,Car as driver,45.0,11.25,2,0.9454076260111136,One
+2120814442,2120814442,212081444,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2120814451,2120814451,212081445,36-45 years,Woman,Housewife/ houseman,Secondary School,Bus (local bus),35.0,8.75,1,0.8182308142103268,None
+2120814461,2120814461,212081446,36-45 years,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),90.0,22.5,2,0.8182308142103268,None
+2120814462,2120814462,212081446,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2120814481,2120814481,212081448,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,90.0,22.5,2,1.226524444430224,One
+2120814483,2120814483,212081448,56-65 years,Woman,Housewife/ houseman,,,,,2,0.6254296922541548,None
+2120824981,2120824981,212082498,25-35 years,Man,Working at full time job(s),Usual workplace,Car as driver,45.0,11.25,1,1.5166038838578633,One
+2120824991,2120824991,212082499,46-55 years,Woman,Working at full time job(s),,,,,3,0.8987541627278769,None
+2120824992,2120824992,212082499,56-65 years,Man,Working at full time job(s),,,,,3,0.9454076260111136,None
+2120824995,2120824995,212082499,14-15 years,Man,Studying at school,Sport and body-care activities,Bus (local bus),20.0,5.0,3,0.8838452498329735,None
+2120825001,2120825001,212082500,56-65 years,Woman,Housewife/ houseman,,,,,1,0.6254296922541548,None
+2120825011,2120825011,212082501,18-24 years,Woman,Housewife/ houseman,,,,,1,1.1680184442194046,None
+2120825021,2120825021,212082502,56-65 years,Man,Working at full time job(s),"Services and administrative needs (city service centers, banks, etc)",Car as driver,30.0,7.5,1,0.9454076260111136,One
+2120825031,2120825031,212082503,66 and more,Woman,"Unemployed, not searching for job",Free canteen for the socially vulnerable people,Bus (local bus),10.0,2.5,1,0.5761899646958017,None
+2120825041,2120825041,212082504,18-24 years,Man,"Unemployed, searching for job",University,Metro,25.0,6.25,1,1.3467554790918572,None
+2120825051,2120825051,212082505,25-35 years,Woman,Housewife/ houseman,,,,,1,1.0405488309535824,None
+2120825061,2120825061,212082506,56-65 years,Man,"Unemployed, not searching for job",,,,,2,0.9454076260111136,None
+2120825062,2120825062,212082506,56-65 years,Woman,Working at full time job(s),Usual workplace,Walking,20.0,5.0,2,0.6254296922541548,None
+2120825071,2120825071,212082507,36-45 years,Woman,Working at part time job(s),"Visiting home of other people (parents, relatives, friends etc)",Car as passenger,180.0,45.0,2,0.8182308142103268,None
+2120825073,2120825073,212082507,18-24 years,Woman,Working at part time job(s),University,Metro,90.0,22.5,2,1.1680184442194046,None
+2120825081,2120825081,212082508,66 and more,Woman,Self-employed,,,,,1,0.5761899646958017,None
+2120825121,2120825121,212082512,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,40.0,10.0,1,1.318947547664047,One
+2120825131,2120825131,212082513,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,1,1.318947547664047,One
+2120825141,2120825141,212082514,36-45 years,Man,Self-employed,Usual workplace,Bus (local bus),20.0,5.0,1,1.226524444430224,One
+2120825151,2120825151,212082515,46-55 years,Woman,Working at full time job(s),Usual workplace,Metro,35.0,8.75,2,0.8987541627278769,None
+2120825153,2120825153,212082515,25-35 years,Woman,Working at full time job(s),,,,,2,1.0405488309535824,None
+2120827701,2120827701,212082770,66 and more,Man,"Retired, not working",Domicile,Bus (local bus),60.0,15.0,1,0.6578800871293811,None
+2120850511,2120850511,212085051,25-35 years,Woman,Working at full time job(s),Accompanying/picking kids to/from courses/clubs/sections etc,Walking,40.0,10.0,1,1.0405488309535824,None
+2120857671,2120857671,212085767,56-65 years,Woman,Housewife/ houseman,Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,10.0,2.5,1,0.6254296922541548,None
+2120866061,2120866061,212086606,18-24 years,Woman,Housewife/ houseman,,,,,1,1.1680184442194046,None
+2120866071,2120866071,212086607,25-35 years,Man,Student (of university or vocational college),University,Walking,15.0,3.75,1,1.5166038838578633,None
+2120866081,2120866081,212086608,46-55 years,Woman,Working at full time job(s),,,,,1,0.8987541627278769,None
+2120868081,2120868081,212086808,25-35 years,Woman,Housewife/ houseman,,,,,1,1.0405488309535824,None
+2120868091,2120868091,212086809,36-45 years,Woman,Working at full time job(s),,,,,2,0.8182308142103268,None
+2120868092,2120868092,212086809,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2120868101,2120868101,212086810,36-45 years,Woman,Working at full time job(s),Usual workplace,Car as passenger,15.0,3.75,2,0.8182308142103268,One
+2120868102,2120868102,212086810,36-45 years,Man,Working at full time job(s),"Accompanying/picking kids to/from nursery, kindergarten",Car as driver,10.0,2.5,2,1.226524444430224,One
+2120868111,2120868111,212086811,36-45 years,Woman,Housewife/ houseman,Accompanying/picking kids to/from school,Bus (local bus),20.0,5.0,4,0.8182308142103268,None
+2120868112,2120868112,212086811,36-45 years,Man,Working at part time job(s),,,,,4,1.226524444430224,None
+2120868113,2120868113,212086811,66 and more,Woman,"Retired, not working",,,,,4,0.5761899646958017,None
+2120868114,2120868114,212086811,66 and more,Man,"Retired, not working",,,,,4,0.6578800871293811,None
+2120868191,2120868191,212086819,36-45 years,Woman,Housewife/ houseman,Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),25.0,6.25,3,0.8182308142103268,None
+2120868192,2120868192,212086819,14-15 years,Woman,Studying at school,Secondary School,Bus (local bus),10.0,2.5,3,0.6792175002843309,None
+2120868193,2120868193,212086819,14-15 years,Woman,Studying at school,Secondary School,Bus (local bus),10.0,2.5,3,0.6792175002843309,None
+2120877111,2120877111,212087711,25-35 years,Woman,Hard to answer,,,,,1,1.0405488309535824,None
+2120877121,2120877121,212087712,36-45 years,Woman,Housewife/ houseman,Not usual workplace/ on some work tasks,Car as driver,15.0,3.75,1,0.8182308142103268,One
+2120877131,2120877131,212087713,66 and more,Man,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),20.0,5.0,1,0.6578800871293811,One
+2120877141,2120877141,212087714,25-35 years,Woman,Working at part time job(s),,,,,1,1.0405488309535824,None
+2120879641,2120879641,212087964,66 and more,Woman,"Retired, but working",,,,,1,0.5761899646958017,None
+2120879651,2120879651,212087965,46-55 years,Man,Working at part time job(s),Usual workplace,Car as driver,5.0,1.25,2,1.318947547664047,One
+2120879652,2120879652,212087965,46-55 years,Woman,Working at part time job(s),,,,,2,0.8987541627278769,None
+2120892041,2120892041,212089204,36-45 years,Woman,Housewife/ houseman,Secondary School,Bus (local bus),15.0,3.75,2,0.8182308142103268,None
+2120892042,2120892042,212089204,36-45 years,Man,Working at part time job(s),Usual workplace,Metro,30.0,7.5,2,1.226524444430224,None
+2120892051,2120892051,212089205,25-35 years,Woman,Working at full time job(s),,,,,2,1.0405488309535824,None
+2120892052,2120892052,212089205,18-24 years,Woman,Working at full time job(s),,,,,2,1.1680184442194046,None
+2120892061,2120892061,212089206,46-55 years,Woman,Working at full time job(s),Usual workplace,Car as passenger,35.0,8.75,3,0.8987541627278769,None
+2120892062,2120892062,212089206,56-65 years,Man,Working at full time job(s),Usual workplace,Car as driver,10.0,2.5,3,0.9454076260111136,One
+2120892063,2120892063,212089206,25-35 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,3,1.0405488309535824,One
+2120895481,2120895481,212089548,36-45 years,Woman,Working at full time job(s),Usual workplace,Car as passenger,15.0,3.75,2,0.8182308142103268,One
+2120895482,2120895482,212089548,46-55 years,Man,Self-employed,Usual workplace,Car as driver,40.0,10.0,2,1.318947547664047,One
+2120895491,2120895491,212089549,18-24 years,Woman,Working at part time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Metro,40.0,10.0,2,1.1680184442194046,None
+2120895493,2120895493,212089549,14-15 years,Woman,Studying at school,Secondary School,Bus (local bus),25.0,6.25,2,0.6792175002843309,None
+2120895501,2120895501,212089550,46-55 years,Man,Self-employed,Usual workplace,Car as driver,40.0,10.0,3,1.318947547664047,One
+2120895506,2120895506,212089550,36-45 years,Woman,Housewife/ houseman,Health center/Doctor,Metro,40.0,10.0,3,0.8182308142103268,None
+2120895507,2120895507,212089550,16-17 years,Woman,Studying at school,Ttutor/student,Bus (local bus),30.0,7.5,3,0.9085998630188142,None
+2120901701,2120901701,212090170,56-65 years,Woman,Working at full time job(s),Health center/Doctor,Bus (local bus),20.0,5.0,2,0.6254296922541548,One
+2120901703,2120901703,212090170,25-35 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,2,1.0405488309535824,None
+2120901711,2120901711,212090171,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),90.0,22.5,2,0.8987541627278769,None
+2120901712,2120901712,212090171,18-24 years,Woman,Student (of university or vocational college),,,,,2,1.1680184442194046,None
+2120901721,2120901721,212090172,46-55 years,Woman,"Retired, not working","Visiting home of other people (parents, relatives, friends etc)",Marshrutka (local),40.0,10.0,2,0.8987541627278769,None
+2120901722,2120901722,212090172,56-65 years,Man,"Unemployed, searching for job","Visiting home of other people (parents, relatives, friends etc)",Marshrutka (local),40.0,10.0,2,0.9454076260111136,None
+2120901731,2120901731,212090173,36-45 years,Woman,Working at full time job(s),Usual workplace,Metro,60.0,15.0,1,0.8182308142103268,None
+2120902141,2120902141,212090214,46-55 years,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),30.0,7.5,2,0.8987541627278769,None
+2120902144,2120902144,212090214,16-17 years,Woman,Studying at school,Courses/clubs/sections/other educational facilities,Marshrutka (local),15.0,3.75,2,0.9085998630188142,None
+2120902151,2120902151,212090215,46-55 years,Woman,Housewife/ houseman,"Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),25.0,6.25,2,0.8987541627278769,One
+2120902152,2120902152,212090215,36-45 years,Man,Working at full time job(s),Usual workplace,Car as passenger,40.0,10.0,2,1.226524444430224,None
+2120902161,2120902161,212090216,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,2,0.8987541627278769,None
+2120902163,2120902163,212090216,18-24 years,Man,"Unemployed, searching for job",,,,,2,1.3467554790918572,None
+2120905441,2120905441,212090544,18-24 years,Woman,Student (of university or vocational college),University,Bus (local bus),40.0,10.0,1,1.1680184442194046,None
+2120905451,2120905451,212090545,56-65 years,Woman,"Retired, not working","Visiting home of other people (parents, relatives, friends etc)",Metro,30.0,7.5,1,0.6254296922541548,None
+2120905461,2120905461,212090546,25-35 years,Woman,Working at full time job(s),,,,,1,1.0405488309535824,None
+2120905471,2120905471,212090547,56-65 years,Woman,Working at full time job(s),"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),40.0,10.0,1,0.6254296922541548,None
+2120905481,2120905481,212090548,56-65 years,Woman,Working at full time job(s),Usual workplace,Metro,45.0,11.25,2,0.6254296922541548,None
+2120905482,2120905482,212090548,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2120905491,2120905491,212090549,66 and more,Man,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,1,0.6578800871293811,One
+2121204491,2121204491,212120449,56-65 years,Woman,Working at full time job(s),,,,,2,4.44257048266213,None
+2121204492,2121204492,212120449,66 and more,Man,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as driver,25.0,6.25,2,4.885387311284171,One
+2121204501,2121204501,212120450,36-45 years,Man,"Unemployed, searching for job",,,,,1,18.982593336235094,None
+2121206601,2121206601,212120660,66 and more,Man,"Retired, not working",Domicile,Car as driver,15.0,3.75,1,4.885387311284171,One
+2121213541,2121213541,212121354,66 and more,Woman,"Retired, not working",,,,,1,4.44257048266213,None
+2121214921,2121214921,212121492,46-55 years,Woman,Working at part time job(s),"Services and administrative needs (city service centers, banks, etc)",Car as passenger,30.0,7.5,1,0.8987541627278769,One
+2121216751,2121216751,212121675,66 and more,Man,"Retired, not working",Domicile,Intercity marshrutka (regional and long-distance),30.0,7.5,1,4.885387311284171,None
+2121226791,2121226791,212122679,66 and more,Woman,"Retired, not working",,,,,1,0.4336121379415606,None
+2121227331,2121227331,212122733,25-35 years,Woman,Housewife/ houseman,"Services and administrative needs (city service centers, banks, etc)",Car as driver,30.0,7.5,2,1.0405488309535824,One
+2121227332,2121227332,212122733,14-15 years,Man,Studying at school,University,Metro,30.0,7.5,2,0.8838452498329735,None
+2121227381,2121227381,212122738,36-45 years,Woman,Working at full time job(s),,,,,1,0.8182308142103268,None
+2121227441,2121227441,212122744,25-35 years,Woman,"Unemployed, not searching for job",,,,,1,0.955779354453164,None
+2121231691,2121231691,212123169,66 and more,Woman,Working at full time job(s),,,,,1,0.4336121379415606,None
+2121232141,2121232141,212123214,66 and more,Woman,"Retired, not working",,,,,1,0.4336121379415606,None
+2121234671,2121234671,212123467,18-24 years,Man,Student (of university or vocational college),Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,20.0,5.0,3,1.3467554790918572,None
+2121234672,2121234672,212123467,36-45 years,Woman,Housewife/ houseman,,,,,3,0.8182308142103268,None
+2121234673,2121234673,212123467,66 and more,Other,"Retired, not working",,,,,3,0.5761899646958017,None
+2121236901,2121236901,212123690,46-55 years,Woman,Working at full time job(s),,,,,1,0.8987541627278769,None
+2121237861,2121237861,212123786,56-65 years,Woman,"Retired, not working",Health center/Doctor,Bus (local bus),10.0,2.5,1,0.6254296922541548,None
+2121240181,2121240181,212124018,46-55 years,Woman,Working at full time job(s),Domicile,Car as driver,15.0,3.75,3,0.9803635972195814,One
+2121240182,2121240182,212124018,66 and more,Woman,"Retired, not working",,,,,3,0.4336121379415606,None
+2121240183,2121240183,212124018,16-17 years,Woman,Studying at school,Courses/clubs/sections/other educational facilities,Rented car (as passenger),25.0,6.25,3,0.6605522481665052,One
+2121241961,2121241961,212124196,66 and more,Woman,"Retired, not working",,,,,1,0.4336121379415606,None
+2121244361,2121244361,212124436,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121244401,2121244401,212124440,18-24 years,Woman,Working at full time job(s),Usual workplace,Metro,30.0,7.5,3,1.1680184442194046,None
+2121244402,2121244402,212124440,18-24 years,Woman,Working at full time job(s),,,,,3,1.1680184442194046,None
+2121244403,2121244403,212124440,18-24 years,Woman,Student (of university or vocational college),Courses/clubs/sections/other educational facilities,Metro,30.0,7.5,3,1.1680184442194046,None
+2121248811,2121248811,212124881,25-35 years,Woman,Housewife/ houseman,,,,,2,1.0405488309535824,None
+2121248812,2121248812,212124881,46-55 years,Man,Working at part time job(s),,,,,2,1.318947547664047,None
+2121250301,2121250301,212125030,36-45 years,Woman,"Unemployed, not searching for job",Beauty salon/ Facial care procedure,Car as passenger,15.0,3.75,2,9.272475288187472,One
+2121250304,2121250304,212125030,56-65 years,Woman,Housewife/ houseman,,,,,2,4.44257048266213,None
+2121254511,2121254511,212125451,36-45 years,Man,"Unemployed, searching for job",,,,,2,1.226524444430224,None
+2121254512,2121254512,212125451,14-15 years,Man,Studying at school,Secondary School,Walking,10.0,2.5,2,0.8838452498329735,None
+2121257681,2121257681,212125768,36-45 years,Woman,Working at full time job(s),,,,,1,0.8182308142103268,None
+2121257991,2121257991,212125799,25-35 years,Woman,Housewife/ houseman,,,,,2,1.0405488309535824,None
+2121257992,2121257992,212125799,25-35 years,Man,Working at full time job(s),,,,,2,1.5166038838578633,None
+2121258001,2121258001,212125800,25-35 years,Woman,Working at full time job(s),,,,,1,1.0405488309535824,None
+2121258011,2121258011,212125801,25-35 years,Woman,Working at part time job(s),,,,,2,1.0405488309535824,None
+2121258012,2121258012,212125801,25-35 years,Woman,Working at part time job(s),Usual workplace,Bus (local bus),60.0,15.0,2,1.0405488309535824,None
+2121258021,2121258021,212125802,66 and more,Man,"Retired, not working",,,,,1,0.6578800871293811,None
+2121258031,2121258031,212125803,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,60.0,15.0,1,1.318947547664047,One
+2121258041,2121258041,212125804,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2121258043,2121258043,212125804,18-24 years,Woman,Student (of university or vocational college),Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),45.0,11.25,2,1.1680184442194046,None
+2121258051,2121258051,212125805,46-55 years,Man,"Unemployed, searching for job",,,,,1,1.318947547664047,None
+2121258061,2121258061,212125806,25-35 years,Woman,Working at full time job(s),Usual workplace,Walking,15.0,3.75,1,1.0405488309535824,None
+2121258071,2121258071,212125807,36-45 years,Woman,Housewife/ houseman,,,,,2,0.8182308142103268,None
+2121258073,2121258073,212125807,14-15 years,Woman,Studying at school,,,,,2,0.6792175002843309,None
+2121259031,2121259031,212125903,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121259041,2121259041,212125904,25-35 years,Man,Working at full time job(s),Usual workplace,Bus (local bus),40.0,10.0,1,1.5166038838578633,None
+2121259291,2121259291,212125929,56-65 years,Woman,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,15.0,3.75,1,0.6254296922541548,None
+2121261181,2121261181,212126118,25-35 years,Woman,In maternity leave,,,,,1,1.0405488309535824,None
+2121263881,2121263881,212126388,46-55 years,Man,Working at both main and side jobs,Usual workplace,Car as driver,30.0,7.5,1,1.318947547664047,One
+2121264041,2121264041,212126404,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),20.0,5.0,5,0.8987541627278769,None
+2121264042,2121264042,212126404,66 and more,Woman,"Retired, not working",,,,,5,0.5761899646958017,None
+2121264043,2121264043,212126404,18-24 years,Man,Student (of university or vocational college),University,Bus (local bus),60.0,15.0,5,1.3467554790918572,None
+2121264044,2121264044,212126404,46-55 years,Man,Working at full time job(s),Usual workplace,Metro,40.0,10.0,5,1.318947547664047,None
+2121264045,2121264045,212126404,16-17 years,Woman,Both studying and working,Secondary School,Metro,35.0,8.75,5,0.9085998630188142,None
+2121264051,2121264051,212126405,46-55 years,Other,Working at full time job(s),Usual workplace,Car as passenger,20.0,5.0,1,1.318947547664047,None
+2121266381,2121266381,212126638,66 and more,Woman,Working at both main and side jobs,"Visiting home of other people (parents, relatives, friends etc)",Car as passenger,90.0,22.5,2,0.5761899646958017,One
+2121266382,2121266382,212126638,25-35 years,Man,"Unemployed, searching for job","Visiting home of other people (parents, relatives, friends etc)",Car as driver,15.0,3.75,2,1.5166038838578633,One
+2121266841,2121266841,212126684,56-65 years,Woman,Working at full time job(s),Accompanying/picking kids to/from courses/clubs/sections etc,Car as passenger,120.0,30.0,1,0.6176219872727928,None
+2121267241,2121267241,212126724,56-65 years,Woman,Working at part time job(s),,,,,1,0.6254296922541548,None
+2121269971,2121269971,212126997,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121271761,2121271761,212127176,36-45 years,Woman,Housewife/ houseman,Health center/Doctor,Metro,40.0,10.0,2,0.8182308142103268,None
+2121271762,2121271762,212127176,18-24 years,Man,Student (of university or vocational college),Courses/clubs/sections/other educational facilities,Metro,60.0,15.0,2,1.3467554790918572,None
+2121272431,2121272431,212127243,46-55 years,Woman,Working at full time job(s),Health center/Doctor,Bus (local bus),10.0,2.5,4,0.8987541627278769,None
+2121272432,2121272432,212127243,56-65 years,Man,Working at full time job(s),Usual workplace,Bus (local bus),45.0,11.25,4,0.9454076260111136,None
+2121272433,2121272433,212127243,16-17 years,Man,Studying at school,Secondary School,Walking,5.0,1.25,4,0.9712376361785788,None
+2121272434,2121272434,212127243,14-15 years,Woman,Studying at school,Domicile,Walking,20.0,5.0,4,0.6792175002843309,None
+2121274201,2121274201,212127420,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121274381,2121274381,212127438,25-35 years,Woman,Housewife/ houseman,Health center/Doctor,Car as passenger,70.0,17.5,1,1.0405488309535824,One
+2121275521,2121275521,212127552,46-55 years,Man,Owner or business,Summer house,Car as driver,60.0,15.0,2,1.318947547664047,One
+2121275522,2121275522,212127552,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2121281691,2121281691,212128169,66 and more,Man,"Retired, but working",Sport and body-care activities,Walking,30.0,7.5,4,0.6578800871293811,None
+2121281692,2121281692,212128169,66 and more,Woman,"Retired, not working",Health center/Doctor,Walking,45.0,11.25,4,0.5761899646958017,None
+2121281693,2121281693,212128169,18-24 years,Man,Both studying and working,,,,,4,1.3467554790918572,None
+2121281694,2121281694,212128169,46-55 years,Woman,Working at full time job(s),,,,,4,0.8987541627278769,None
+2121282751,2121282751,212128275,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121288931,2121288931,212128893,56-65 years,Woman,Housewife/ houseman,,,,,2,4.44257048266213,None
+2121288932,2121288932,212128893,56-65 years,Man,Working at full time job(s),Health center/Doctor,Car as driver,60.0,15.0,2,4.885387311284171,One
+2121293741,2121293741,212129374,66 and more,Man,"Retired, but working",Usual workplace,Car as driver,30.0,7.5,1,0.6578800871293811,One
+2121295291,2121295291,212129529,46-55 years,Woman,Housewife/ houseman,,,,,2,0.9803635972195814,None
+2121295292,2121295292,212129529,46-55 years,Man,"Unemployed, searching for job","Restaurant, café or other socializing sites",Car as passenger,15.0,3.75,2,1.2956760710260384,None
+2121297351,2121297351,212129735,46-55 years,Woman,Housewife/ houseman,Accompanying/picking kids to/from courses/clubs/sections etc,Bus (local bus),60.0,15.0,2,0.8987541627278769,None
+2121297353,2121297353,212129735,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2121297611,2121297611,212129761,66 and more,Woman,"Retired, not working",,,,,2,4.44257048266213,None
+2121297612,2121297612,212129761,66 and more,Man,"Retired, not working",,,,,2,4.885387311284171,None
+2121298541,2121298541,212129854,36-45 years,Man,Working at part time job(s),,,,,3,1.226524444430224,None
+2121298542,2121298542,212129854,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2121298543,2121298543,212129854,66 and more,Man,"Retired, not working",,,,,3,0.6578800871293811,None
+2121298671,2121298671,212129867,66 and more,Man,"Retired, not working",Health center/Doctor,Car as driver,60.0,15.0,3,0.5046028507701832,One
+2121298672,2121298672,212129867,56-65 years,Woman,"Retired, not working",,,,,3,0.6176219872727928,None
+2121298673,2121298673,212129867,25-35 years,Man,Working at full time job(s),Usual workplace,Car as driver,10.0,2.5,3,2.441963403428145,One
+2121303581,2121303581,212130358,66 and more,Man,"Retired, not working",,,,,1,4.885387311284171,None
+2121306071,2121306071,212130607,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),18.0,4.5,1,0.8987541627278769,None
+2121308001,2121308001,212130800,56-65 years,Woman,Working at part time job(s),,,,,2,0.6254296922541548,None
+2121308002,2121308002,212130800,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2121309011,2121309011,212130901,56-65 years,Man,"Retired, but working",,,,,1,0.7599740695517776,None
+2121309371,2121309371,212130937,25-35 years,Man,"Unemployed, searching for job",Health center/Doctor,Personal e-scooter (or another motorized light personal vehicle),60.0,15.0,4,2.441963403428145,One
+2121309372,2121309372,212130937,25-35 years,Woman,Housewife/ houseman,,,,,4,0.955779354453164,None
+2121309373,2121309373,212130937,56-65 years,Woman,Housewife/ houseman,,,,,4,0.6176219872727928,None
+2121309374,2121309374,212130937,36-45 years,Woman,Housewife/ houseman,,,,,4,0.5708711729343885,None
+2121316231,2121316231,212131623,25-35 years,Woman,Housewife/ houseman,,,,,1,0.955779354453164,None
+2121322631,2121322631,212132263,56-65 years,Woman,Working at full time job(s),,,,,1,0.6254296922541548,None
+2121333551,2121333551,212133355,66 and more,Woman,"Retired, not working",,,,,1,0.4336121379415606,None
+2121338311,2121338311,212133831,36-45 years,Woman,Housewife/ houseman,,,,,2,0.5708711729343885,None
+2121338312,2121338312,212133831,56-65 years,Woman,Housewife/ houseman,,,,,2,0.6176219872727928,None
+2121345911,2121345911,212134591,66 and more,Woman,Working at full time job(s),,,,,2,0.5761899646958017,None
+2121345914,2121345914,212134591,16-17 years,Woman,Studying at school,Secondary School,Walking,10.0,2.5,2,0.9085998630188142,None
+2121347321,2121347321,212134732,18-24 years,Man,Student (of university or vocational college),University,Walking,30.0,7.5,2,1.3467554790918572,One
+2121347322,2121347322,212134732,18-24 years,Woman,Student (of university or vocational college),,,,,2,1.1680184442194046,None
+2121348411,2121348411,212134841,25-35 years,Woman,Working at full time job(s),,,,,1,1.0405488309535824,None
+2121348421,2121348421,212134842,25-35 years,Woman,Working at part time job(s),Usual workplace,Taxi passenger,30.0,7.5,2,1.0405488309535824,One
+2121348423,2121348423,212134842,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2121348431,2121348431,212134843,56-65 years,Woman,"Retired, not working",,,,,1,0.6254296922541548,None
+2121348441,2121348441,212134844,36-45 years,Woman,Working at full time job(s),Don't know,Walking,10.0,2.5,2,0.8182308142103268,One
+2121348442,2121348442,212134844,56-65 years,Woman,"Retired, not working",,,,,2,0.6254296922541548,None
+2121348451,2121348451,212134845,56-65 years,Woman,Working at full time job(s),"Services and administrative needs (city service centers, banks, etc)",Car as passenger,30.0,7.5,1,0.6254296922541548,One
+2121348461,2121348461,212134846,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2121348463,2121348463,212134846,14-15 years,Man,Studying at school,Secondary School,Bus (local bus),20.0,5.0,2,0.8838452498329735,None
+2121348471,2121348471,212134847,25-35 years,Woman,Working at part time job(s),Usual workplace,Marshrutka (local),60.0,15.0,1,1.0405488309535824,None
+2121352811,2121352811,212135281,66 and more,Woman,"Retired, not working",,,,,4,0.4336121379415606,None
+2121352812,2121352812,212135281,66 and more,Man,"Retired, not working",,,,,4,0.5046028507701832,None
+2121352813,2121352813,212135281,36-45 years,Woman,Housewife/ houseman,,,,,4,0.5708711729343885,None
+2121352814,2121352814,212135281,14-15 years,Woman,Studying at school,Secondary School,Marshrutka (local),40.0,10.0,4,0.5605011747471486,None
+2121354091,2121354091,212135409,66 and more,Woman,"Retired, but working",,,,,1,0.5761899646958017,None
+2121360461,2121360461,212136046,36-45 years,Woman,"Unemployed, not searching for job",,,,,1,0.8182308142103268,None
+2121362741,2121362741,212136274,56-65 years,Woman,"Unemployed, searching for job",Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),15.0,3.75,3,0.6254296922541548,One
+2121362742,2121362742,212136274,25-35 years,Man,Working at full time job(s),Usual workplace,Car as passenger,30.0,7.5,3,1.5166038838578633,One
+2121362743,2121362743,212136274,56-65 years,Man,"Unemployed, not searching for job",Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,15.0,3.75,3,0.9454076260111136,One
+2121372361,2121372361,212137236,36-45 years,Woman,Housewife/ houseman,Health center/Doctor,Car as passenger,20.0,5.0,2,0.8182308142103268,One
+2121372362,2121372362,212137236,46-55 years,Man,Working at full time job(s),Health center/Doctor,Car as driver,20.0,5.0,2,1.318947547664047,One
+2121375571,2121375571,212137557,56-65 years,Woman,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),38.0,9.5,2,0.6254296922541548,None
+2121375572,2121375572,212137557,25-35 years,Man,Working at part time job(s),Usual workplace,Car as driver,40.0,10.0,2,1.5166038838578633,None
+2121375581,2121375581,212137558,18-24 years,Man,Working at part time job(s),University,Car as driver,60.0,15.0,5,1.3467554790918572,None
+2121375582,2121375582,212137558,18-24 years,Woman,Working at part time job(s),Usual workplace,Bus (local bus),90.0,22.5,5,1.1680184442194046,None
+2121375583,2121375583,212137558,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),105.0,26.25,5,0.8987541627278769,None
+2121375584,2121375584,212137558,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,5,0.8987541627278769,None
+2121375585,2121375585,212137558,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,40.0,10.0,5,1.318947547664047,None
+2121375591,2121375591,212137559,36-45 years,Man,"Unemployed, not searching for job","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),40.0,10.0,2,1.226524444430224,None
+2121375592,2121375592,212137559,66 and more,Woman,Working at full time job(s),,,,,2,0.5761899646958017,None
+2121375601,2121375601,212137560,56-65 years,Woman,"Retired, not working","Services and administrative needs (city service centers, banks, etc)",Bus (local bus),90.0,22.5,1,0.6254296922541548,None
+2121381921,2121381921,212138192,36-45 years,Woman,Housewife/ houseman,"Accompanying/picking kids to/from nursery, kindergarten",Marshrutka (local),10.0,2.5,3,0.8182308142103268,None
+2121381922,2121381922,212138192,36-45 years,Man,Working at full time job(s),Usual workplace,Rented car (as driver),90.0,22.5,3,1.226524444430224,One
+2121381923,2121381923,212138192,56-65 years,Woman,Housewife/ houseman,,,,,3,0.6254296922541548,None
+2121381931,2121381931,212138193,46-55 years,Woman,Working at full time job(s),,,,,1,0.8987541627278769,None
+2121381941,2121381941,212138194,36-45 years,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),60.0,15.0,2,0.8182308142103268,None
+2121381942,2121381942,212138194,16-17 years,Woman,Studying at school,,,,,2,0.9085998630188142,None
+2121381951,2121381951,212138195,36-45 years,Man,"Unemployed, searching for job",,,,,3,1.226524444430224,None
+2121381953,2121381953,212138195,66 and more,Woman,"Retired, but working",,,,,3,0.5761899646958017,None
+2121381954,2121381954,212138195,66 and more,Man,"Retired, but working",,,,,3,0.6578800871293811,None
+2121381961,2121381961,212138196,36-45 years,Woman,Housewife/ houseman,"Visiting home of other people (parents, relatives, friends etc)",Car as driver,60.0,15.0,1,0.8182308142103268,One
+2121381971,2121381971,212138197,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121381981,2121381981,212138198,46-55 years,Woman,Working at part time job(s),"Daily needs shopping (in small nearby stores, on street markets etc)",Marshrutka (local),60.0,15.0,4,0.8987541627278769,None
+2121381982,2121381982,212138198,66 and more,Man,"Retired, not working",,,,,4,0.6578800871293811,None
+2121381983,2121381983,212138198,56-65 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),15.0,3.75,4,0.6254296922541548,None
+2121381984,2121381984,212138198,46-55 years,Man,"Unemployed, searching for job",,,,,4,1.318947547664047,None
+2121383301,2121383301,212138330,46-55 years,Woman,Housewife/ houseman,Health center/Doctor,Bus (local bus),30.0,7.5,1,0.8987541627278769,None
+2121383311,2121383311,212138331,36-45 years,Man,Working at full time job(s),Domicile,Metro,30.0,7.5,1,1.226524444430224,None
+2121383321,2121383321,212138332,36-45 years,Man,Working at full time job(s),Usual workplace,Walking,40.0,10.0,3,1.226524444430224,None
+2121383322,2121383322,212138332,36-45 years,Woman,Working at full time job(s),Usual workplace,Metro,25.0,6.25,3,0.8182308142103268,None
+2121383323,2121383323,212138332,14-15 years,Woman,Studying at school,,,,,3,0.6792175002843309,None
+2121386841,2121386841,212138684,18-24 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,2,1.1680184442194046,One
+2121386842,2121386842,212138684,18-24 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,2,1.1680184442194046,One
+2121397081,2121397081,212139708,25-35 years,Woman,Working at full time job(s),Usual workplace,Metro,15.0,3.75,4,1.0405488309535824,None
+2121397082,2121397082,212139708,66 and more,Other,"Retired, not working",,,,,4,0.5761899646958017,None
+2121397083,2121397083,212139708,56-65 years,Woman,"Retired, not working",,,,,4,0.6254296922541548,None
+2121397084,2121397084,212139708,66 and more,Woman,"Retired, not working",,,,,4,0.5761899646958017,None
+2121402881,2121402881,212140288,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,3,1.226524444430224,One
+2121402882,2121402882,212140288,56-65 years,Man,Working at full time job(s),Usual workplace,Bus (local bus),40.0,10.0,3,0.9454076260111136,One
+2121402883,2121402883,212140288,56-65 years,Woman,Housewife/ houseman,"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),20.0,5.0,3,0.6254296922541548,One
+2121419001,2121419001,212141900,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,4,1.318947547664047,One
+2121419002,2121419002,212141900,46-55 years,Woman,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,4,0.8987541627278769,One
+2121419003,2121419003,212141900,16-17 years,Woman,Studying at school,Courses/clubs/sections/other educational facilities,Bus (local bus),45.0,11.25,4,0.9085998630188142,None
+2121419004,2121419004,212141900,66 and more,Woman,"Retired, not working",,,,,4,0.5761899646958017,None
+2121422191,2121422191,212142219,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,60.0,15.0,3,1.226524444430224,One
+2121422192,2121422192,212142219,36-45 years,Woman,"Unemployed, not searching for job",Secondary School,Walking,15.0,3.75,3,0.8182308142103268,None
+2121422193,2121422193,212142219,46-55 years,Woman,Working at full time job(s),,,,,3,0.8987541627278769,None
+2121422201,2121422201,212142220,66 and more,Man,Working at full time job(s),Usual workplace,Car as driver,20.0,5.0,1,0.6578800871293811,One
+2121422211,2121422211,212142221,36-45 years,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),90.0,22.5,4,0.8182308142103268,None
+2121422212,2121422212,212142221,36-45 years,Man,Working at full time job(s),,,,,4,1.226524444430224,None
+2121422213,2121422213,212142221,16-17 years,Man,Studying at school,,,,,4,0.9712376361785788,None
+2121422214,2121422214,212142221,14-15 years,Woman,Studying at school,Secondary School,Walking,10.0,2.5,4,0.6792175002843309,None
+2121440421,2121440421,212144042,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121442641,2121442641,212144264,46-55 years,Man,Working at full time job(s),Domicile,Car as driver,45.0,11.25,2,1.318947547664047,One
+2121442642,2121442642,212144264,46-55 years,Woman,Working at full time job(s),,,,,2,0.8987541627278769,None
+2121442651,2121442651,212144265,36-45 years,Woman,Working at full time job(s),Usual workplace,Car as driver,10.0,2.5,4,0.8182308142103268,One
+2121442652,2121442652,212144265,46-55 years,Man,Working at full time job(s),,,,,4,1.318947547664047,None
+2121442653,2121442653,212144265,66 and more,Woman,"Retired, not working",,,,,4,0.5761899646958017,None
+2121442654,2121442654,212144265,16-17 years,Man,Studying at school,,,,,4,0.9712376361785788,None
+2121442661,2121442661,212144266,25-35 years,Woman,Housewife/ houseman,"Accompanying/picking kids to/from nursery, kindergarten",Walking,15.0,3.75,1,1.0405488309535824,One
+2121442671,2121442671,212144267,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2121442674,2121442674,212144267,18-24 years,Woman,Student (of university or vocational college),"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),20.0,5.0,2,1.1680184442194046,None
+2121465051,2121465051,212146505,18-24 years,Woman,Student (of university or vocational college),University,Bus (local bus),60.0,15.0,1,1.1680184442194046,None
+2121465061,2121465061,212146506,46-55 years,Woman,Working at full time job(s),"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),60.0,15.0,1,0.8987541627278769,None
+2121465071,2121465071,212146507,25-35 years,Woman,Working at full time job(s),Usual workplace,Metro,90.0,22.5,1,1.0405488309535824,None
+2121465081,2121465081,212146508,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),45.0,11.25,2,0.8987541627278769,None
+2121465082,2121465082,212146508,46-55 years,Man,Working at full time job(s),,,,,2,1.318947547664047,None
+2121466371,2121466371,212146637,36-45 years,Woman,Housewife/ houseman,,,,,2,0.8182308142103268,None
+2121466372,2121466372,212146637,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,20.0,5.0,2,1.226524444430224,One
+2121474881,2121474881,212147488,66 and more,Man,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Walking,30.0,7.5,3,0.6578800871293811,None
+2121474882,2121474882,212147488,46-55 years,Woman,Housewife/ houseman,,,,,3,0.8987541627278769,None
+2121474883,2121474883,212147488,66 and more,Woman,Working at part time job(s),Usual workplace,Walking,5.0,1.25,3,0.5761899646958017,None
+2121482301,2121482301,212148230,66 and more,Woman,"Retired, not working",At the rally,Bus (local bus),30.0,7.5,2,0.5761899646958017,None
+2121482302,2121482302,212148230,56-65 years,Man,"Retired, not working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),30.0,7.5,2,0.9454076260111136,None
+2121482311,2121482311,212148231,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2121482312,2121482312,212148231,25-35 years,Woman,Working at full time job(s),,,,,2,1.0405488309535824,None
+2121489371,2121489371,212148937,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2121489372,2121489372,212148937,56-65 years,Woman,Housewife/ houseman,"Having a promenade around the city, in park etc (in this case in address question – state address of start of promena",Bus (local bus),10.0,2.5,2,0.6254296922541548,None
+2121489381,2121489381,212148938,46-55 years,Woman,Housewife/ houseman,,,,,3,0.8987541627278769,None
+2121489382,2121489382,212148938,25-35 years,Woman,"Unemployed, searching for job",,,,,3,1.0405488309535824,None
+2121489383,2121489383,212148938,25-35 years,Woman,"Unemployed, not searching for job",,,,,3,1.0405488309535824,None
+2121489391,2121489391,212148939,46-55 years,Man,Working at part time job(s),,,,,2,1.318947547664047,None
+2121489392,2121489392,212148939,36-45 years,Woman,"Unemployed, searching for job",,,,,2,0.8182308142103268,None
+2121489401,2121489401,212148940,25-35 years,Woman,Working at full time job(s),"Services and administrative needs (city service centers, banks, etc)",Bus (local bus),65.0,16.25,2,1.0405488309535824,One
+2121489402,2121489402,212148940,66 and more,Woman,"Retired, not working",,,,,2,0.5761899646958017,None
+2121489411,2121489411,212148941,36-45 years,Woman,Self-employed,"Visiting home of other people (parents, relatives, friends etc)",Car as driver,30.0,7.5,1,0.8182308142103268,One
+2121493031,2121493031,212149303,46-55 years,Woman,Working at part time job(s),Usual workplace,Metro,60.0,15.0,1,0.8987541627278769,None
+2121493041,2121493041,212149304,25-35 years,Woman,Self-employed,Usual workplace,Bus (local bus),60.0,15.0,2,1.0405488309535824,None
+2121493042,2121493042,212149304,56-65 years,Woman,Working at part time job(s),Usual workplace,Metro,60.0,15.0,2,0.6254296922541548,None
+2121493051,2121493051,212149305,56-65 years,Woman,Self-employed,Not usual workplace/ on some work tasks,Bus (local bus),30.0,7.5,1,0.6254296922541548,None
+2121493061,2121493061,212149306,25-35 years,Woman,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,1,1.0405488309535824,One
+2121493071,2121493071,212149307,25-35 years,Woman,Working at full time job(s),Usual workplace,Metro,60.0,15.0,1,1.0405488309535824,One
+2121498691,2121498691,212149869,36-45 years,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),120.0,30.0,2,0.8182308142103268,None
+2121498692,2121498692,212149869,66 and more,Woman,Working at full time job(s),Usual workplace,Bus (local bus),100.0,25.0,2,0.5761899646958017,None
+2121502181,2121502181,212150218,56-65 years,Woman,Working at full time job(s),Usual workplace,Marshrutka (local),40.0,10.0,3,0.6254296922541548,None
+2121502182,2121502182,212150218,36-45 years,Man,Working at full time job(s),Usual workplace,Metro,40.0,10.0,3,1.226524444430224,None
+2121502183,2121502183,212150218,56-65 years,Man,Self-employed,,,,,3,0.9454076260111136,None
+2121502191,2121502191,212150219,18-24 years,Woman,Both studying and working,University,Metro,60.0,15.0,2,1.1680184442194046,None
+2121502192,2121502192,212150219,18-24 years,Woman,Student (of university or vocational college),University,Walking,50.0,12.5,2,1.1680184442194046,None
+2121502911,2121502911,212150291,36-45 years,Woman,Working at full time job(s),Health center/Doctor,"Ridehail passenger (services like Uber, Bolt, YandexTaxi etc.)",10.0,2.5,3,9.272475288187472,None
+2121502913,2121502913,212150291,16-17 years,Man,Studying at school,,,,,3,4.549992901594249,None
+2121502914,2121502914,212150291,14-15 years,Man,Studying at school,,,,,3,4.891959581209663,None
+2121503871,2121503871,212150387,66 and more,Man,"Retired, not working",Usual workplace,Bus (local bus),20.0,5.0,3,0.6578800871293811,None
+2121503872,2121503872,212150387,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2121503873,2121503873,212150387,46-55 years,Woman,"Unemployed, not searching for job","Visiting home of other people (parents, relatives, friends etc)",Car as passenger,90.0,22.5,3,0.8987541627278769,None
+2121503881,2121503881,212150388,18-24 years,Woman,Working at full time job(s),Usual workplace,Metro,20.0,5.0,1,1.1680184442194046,None
+2121503891,2121503891,212150389,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121503901,2121503901,212150390,66 and more,Woman,Working at full time job(s),Usual workplace,Bus (local bus),40.0,10.0,2,0.5761899646958017,None
+2121503902,2121503902,212150390,46-55 years,Man,"Unemployed, searching for job",,,,,2,1.318947547664047,None
+2121503911,2121503911,212150391,46-55 years,Woman,Housewife/ houseman,Sport and body-care activities,Walking,20.0,5.0,3,0.8987541627278769,One
+2121503912,2121503912,212150391,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2121503913,2121503913,212150391,46-55 years,Man,Self-employed,Usual workplace,Car as driver,15.0,3.75,3,1.318947547664047,One
+2121503921,2121503921,212150392,36-45 years,Man,Working at full time job(s),Not usual workplace/ on some work tasks,Car as driver,60.0,15.0,1,1.226524444430224,One
+2121503931,2121503931,212150393,18-24 years,Man,Working at full time job(s),Usual workplace,Taxi passenger,10.0,2.5,1,1.3467554790918572,None
+2121503941,2121503941,212150394,56-65 years,Woman,Housewife/ houseman,Big shopping (in shopping malls / supermarkets / big markets / bazar),Metro,50.0,12.5,1,0.6254296922541548,One
+2121503951,2121503951,212150395,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121503961,2121503961,212150396,46-55 years,Woman,Self-employed,Usual workplace,Walking,20.0,5.0,5,0.8987541627278769,One
+2121503962,2121503962,212150396,16-17 years,Woman,Studying at school,Ttutor/student,Walking,15.0,3.75,5,0.9085998630188142,One
+2121503963,2121503963,212150396,56-65 years,Man,Self-employed,Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as driver,90.0,22.5,5,0.9454076260111136,One
+2121503964,2121503964,212150396,25-35 years,Man,"Unemployed, searching for job",,,,,5,1.5166038838578633,None
+2121503965,2121503965,212150396,25-35 years,Man,Working at full time job(s),,,,,5,1.5166038838578633,None
+2121514411,2121514411,212151441,36-45 years,Woman,Working at full time job(s),,,,,3,0.8182308142103268,None
+2121514412,2121514412,212151441,25-35 years,Woman,Working at part time job(s),,,,,3,1.0405488309535824,None
+2121514413,2121514413,212151441,18-24 years,Man,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,3,1.3467554790918572,None
+2121514421,2121514421,212151442,36-45 years,Woman,Housewife/ houseman,Sport and body-care activities,Metro,40.0,10.0,1,0.8182308142103268,None
+2121514431,2121514431,212151443,25-35 years,Woman,Working at part time job(s),Sport and body-care activities,Metro,65.0,16.25,2,1.0405488309535824,None
+2121514432,2121514432,212151443,25-35 years,Man,Working at full time job(s),Usual workplace,Metro,90.0,22.5,2,1.5166038838578633,None
+2121514441,2121514441,212151444,66 and more,Woman,Working at full time job(s),Usual workplace,Bus (local bus),120.0,30.0,2,0.5761899646958017,None
+2121514442,2121514442,212151444,18-24 years,Man,Working at full time job(s),Usual workplace,Metro,50.0,12.5,2,1.3467554790918572,None
+2121514451,2121514451,212151445,66 and more,Man,Working at full time job(s),,,,,1,0.6578800871293811,None
+2121514461,2121514461,212151446,36-45 years,Woman,Housewife/ houseman,,,,,2,0.8182308142103268,None
+2121514462,2121514462,212151446,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,2,1.318947547664047,None
+2121516351,2121516351,212151635,36-45 years,Woman,"Unemployed, searching for job",Not usual workplace/ on some work tasks,Intercity marshrutka (regional and long-distance),90.0,22.5,1,9.272475288187472,One
+2121516361,2121516361,212151636,36-45 years,Woman,Housewife/ houseman,,,,,2,9.272475288187472,None
+2121516362,2121516362,212151636,16-17 years,Woman,Both studying and working,Secondary School,Walking,10.0,2.5,2,5.9600316854111375,None
+2121516371,2121516371,212151637,56-65 years,Woman,Owner or business,Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,15.0,3.75,1,4.44257048266213,None
+2121516381,2121516381,212151638,36-45 years,Woman,Housewife/ houseman,"Having a promenade around the city, in park etc (in this case in address question – state address of start of promena",Walking,15.0,3.75,1,9.272475288187472,None
+2121516391,2121516391,212151639,46-55 years,Woman,Working at part time job(s),"Daily needs shopping (in small nearby stores, on street markets etc)",Walking,10.0,2.5,1,8.23147982422885,None
+2121526721,2121526721,212152672,25-35 years,Woman,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,3,1.0405488309535824,One
+2121526722,2121526722,212152672,25-35 years,Man,Working at full time job(s),Usual workplace,Car as passenger,30.0,7.5,3,1.5166038838578633,One
+2121526723,2121526723,212152672,66 and more,Woman,Housewife/ houseman,,,,,3,0.5761899646958017,None
+2121526731,2121526731,212152673,56-65 years,Woman,Self-employed,Usual workplace,Walking,10.0,2.5,3,0.6254296922541548,None
+2121526732,2121526732,212152673,56-65 years,Man,"Unemployed, searching for job",,,,,3,0.9454076260111136,None
+2121526733,2121526733,212152673,25-35 years,Woman,Self-employed,,,,,3,1.0405488309535824,None
+2121526741,2121526741,212152674,66 and more,Woman,"Retired, not working",,,,,3,0.5761899646958017,None
+2121526742,2121526742,212152674,66 and more,Man,"Retired, not working",,,,,3,0.6578800871293811,None
+2121526743,2121526743,212152674,18-24 years,Woman,"Unemployed, not searching for job",,,,,3,1.1680184442194046,None
+2121759641,2121759641,212175964,25-35 years,Man,Working at part time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),15.0,3.75,1,1.5166038838578633,One
+2121762581,2121762581,212176258,25-35 years,Woman,Housewife/ houseman,,,,,4,0.955779354453164,None
+2121762582,2121762582,212176258,14-15 years,Man,Studying at school,Secondary School,Marshrutka (local),25.0,6.25,4,0.7337078717419487,None
+2121762583,2121762583,212176258,56-65 years,Woman,"Retired, not working",,,,,4,0.6176219872727928,None
+2121762584,2121762584,212176258,56-65 years,Man,Working at both main and side jobs,Health center/Doctor,Car as driver,60.0,15.0,4,0.7599740695517776,One
+2121770451,2121770451,212177045,66 and more,Woman,"Retired, not working","Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),60.0,15.0,1,0.5761899646958017,None
+2121772371,2121772371,212177237,66 and more,Woman,"Retired, not working",,,,,1,4.44257048266213,None
+2121772821,2121772821,212177282,66 and more,Woman,"Retired, not working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Marshrutka (local),15.0,3.75,2,0.4336121379415606,None
+2121772823,2121772823,212177282,66 and more,Man,Working at full time job(s),Usual workplace,Car as passenger,40.0,10.0,2,0.5046028507701832,None
+2121773421,2121773421,212177342,56-65 years,Man,"Retired, not working",,,,,4,0.7599740695517776,None
+2121773422,2121773422,212177342,36-45 years,Man,Working at both main and side jobs,,,,,4,1.08407325019841,None
+2121773423,2121773423,212177342,56-65 years,Man,"Retired, not working",,,,,4,0.7599740695517776,None
+2121773424,2121773424,212177342,36-45 years,Woman,Working at full time job(s),,,,,4,0.5708711729343885,None
+2121773961,2121773961,212177396,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2121773962,2121773962,212177396,56-65 years,Woman,"Retired, not working",,,,,2,0.6254296922541548,None
+2121775311,2121775311,212177531,66 and more,Woman,"Retired, not working",,,,,1,4.44257048266213,None
+2121778631,2121778631,212177863,66 and more,Woman,"Retired, not working",,,,,2,0.4336121379415606,None
+2121778632,2121778632,212177863,25-35 years,Woman,Person with Disabilities,,,,,2,0.955779354453164,None
+2121789051,2121789051,212178905,66 and more,Man,"Retired, not working",Usual workplace,Car as driver,15.0,3.75,2,0.5046028507701832,One
+2121789052,2121789052,212178905,66 and more,Woman,"Retired, not working",,,,,2,0.4336121379415606,None
+2121791861,2121791861,212179186,18-24 years,Man,Both studying and working,Domicile,Intercity bus,80.0,20.0,2,11.07114517211258,None
+2121791864,2121791864,212179186,14-15 years,Man,Studying at school,Courses/clubs/sections/other educational facilities,Bus (local bus),20.0,5.0,2,4.891959581209663,None
+2121792481,2121792481,212179248,56-65 years,Woman,Housewife/ houseman,,,,,2,4.44257048266213,None
+2121792483,2121792483,212179248,25-35 years,Woman,Working at full time job(s),Accompanying/picking kids to/from school,Car as driver,5.0,1.25,2,16.907555589877518,One
+2121792741,2121792741,212179274,66 and more,Woman,"Retired, not working",,,,,1,0.4336121379415606,None
+2121800061,2121800061,212180006,36-45 years,Woman,Working at full time job(s),Health center/Doctor,Car as passenger,60.0,15.0,1,0.5708711729343885,None
+2121811921,2121811921,212181192,36-45 years,Woman,Housewife/ houseman,Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,10.0,2.5,2,9.272475288187472,None
+2121811922,2121811922,212181192,66 and more,Man,Working at full time job(s),Usual workplace,Walking,10.0,2.5,2,4.885387311284171,None
+2121824291,2121824291,212182429,25-35 years,Woman,Housewife/ houseman,Health center/Doctor,Walking,70.0,17.5,1,1.0405488309535824,None
+2121844251,2121844251,212184425,25-35 years,Woman,"Unemployed, searching for job",,,,,2,0.955779354453164,None
+2121844252,2121844252,212184425,66 and more,Woman,"Retired, not working",,,,,2,0.4336121379415606,None
+2121848621,2121848621,212184862,18-24 years,Woman,Working at part time job(s),,,,,2,1.3947980289053323,None
+2121848622,2121848622,212184862,36-45 years,Woman,Working at full time job(s),Usual workplace,"Shared transport provided by employer (shuttle, bus…)",60.0,15.0,2,0.5708711729343885,None
+2121849811,2121849811,212184981,25-35 years,Woman,"Unemployed, not searching for job",,,,,1,0.955779354453164,None
+2121850001,2121850001,212185000,66 and more,Man,"Retired, not working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,45.0,11.25,1,0.6578800871293811,None
+2121857581,2121857581,212185758,46-55 years,Woman,Housewife/ houseman,"Cultural site (cinema, theaters, concert hall)",Walking,30.0,7.5,1,0.8987541627278769,None
+2121868721,2121868721,212186872,25-35 years,Woman,Working at full time job(s),"Services and administrative needs (city service centers, banks, etc)",Taxi passenger,10.0,2.5,2,0.955779354453164,None
+2121868722,2121868722,212186872,56-65 years,Woman,"Retired, not working",Health center/Doctor,Taxi passenger,45.0,11.25,2,0.6176219872727928,None
+2121876501,2121876501,212187650,25-35 years,Woman,Housewife/ houseman,Health center/Doctor,"Ridehail passenger (services like Uber, Bolt, YandexTaxi etc.)",45.0,11.25,2,1.0405488309535824,None
+2121876502,2121876502,212187650,25-35 years,Man,Working at full time job(s),,,,,2,1.5166038838578633,None
+2121876851,2121876851,212187685,18-24 years,Man,Student (of university or vocational college),University,Metro,30.0,7.5,2,1.3467554790918572,None
+2121876852,2121876852,212187685,18-24 years,Woman,Working at full time job(s),Big shopping (in shopping malls / supermarkets / big markets / bazar),Walking,5.0,1.25,2,1.1680184442194046,None
+2121876861,2121876861,212187686,46-55 years,Woman,Housewife/ houseman,Not usual workplace/ on some work tasks,Car as driver,30.0,7.5,2,0.8987541627278769,One
+2121876862,2121876862,212187686,18-24 years,Woman,Student (of university or vocational college),,,,,2,1.1680184442194046,None
+2121876871,2121876871,212187687,18-24 years,Man,Student (of university or vocational college),University,Bus (local bus),30.0,7.5,3,1.3467554790918572,None
+2121876872,2121876872,212187687,18-24 years,Man,Student (of university or vocational college),University,Bus (local bus),30.0,7.5,3,1.3467554790918572,None
+2121876873,2121876873,212187687,18-24 years,Man,Student (of university or vocational college),University,Metro,20.0,5.0,3,1.3467554790918572,None
+2121876881,2121876881,212187688,25-35 years,Man,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,4,1.5166038838578633,None
+2121876882,2121876882,212187688,25-35 years,Man,Working at full time job(s),University,Walking,20.0,5.0,4,1.5166038838578633,None
+2121876883,2121876883,212187688,56-65 years,Man,Working at full time job(s),Sport and body-care activities,Bus (local bus),15.0,3.75,4,0.9454076260111136,None
+2121876884,2121876884,212187688,56-65 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),90.0,22.5,4,0.6254296922541548,None
+2121876891,2121876891,212187689,66 and more,Man,Working at full time job(s),Usual workplace,Bus (local bus),120.0,30.0,1,0.6578800871293811,One
+2121882851,2121882851,212188285,56-65 years,Woman,Working at part time job(s),Usual workplace,Walking,30.0,7.5,1,4.44257048266213,None
+2121882861,2121882861,212188286,46-55 years,Woman,"Unemployed, searching for job","Daily needs shopping (in small nearby stores, on street markets etc)",Bus (local bus),50.0,12.5,1,8.23147982422885,None
+2121882871,2121882871,212188287,66 and more,Man,Working at part time job(s),Usual workplace,Bus (local bus),30.0,7.5,1,4.885387311284171,None
+2121887111,2121887111,212188711,25-35 years,Man,Working at part time job(s),Usual workplace,"Two wheels personal motor vehicle (motorcycle, moped etc.)",25.0,6.25,1,1.5166038838578633,One
+2121887651,2121887651,212188765,66 and more,Woman,"Retired, not working",Domicile,Bus (local bus),60.0,15.0,1,0.5761899646958017,None
+2121887661,2121887661,212188766,18-24 years,Woman,Working at part time job(s),Usual workplace,Metro,30.0,7.5,1,1.1680184442194046,None
+2121888721,2121888721,212188872,56-65 years,Woman,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Walking,40.0,10.0,2,0.6254296922541548,One
+2121888722,2121888722,212188872,25-35 years,Man,Working at full time job(s),,,,,2,1.5166038838578633,None
+2121891401,2121891401,212189140,36-45 years,Woman,Housewife/ houseman,,,,,1,0.8182308142103268,None
+2121891411,2121891411,212189141,46-55 years,Man,Working at full time job(s),,,,,1,1.318947547664047,None
+2121891621,2121891621,212189162,46-55 years,Woman,Housewife/ houseman,,,,,1,0.8987541627278769,None
+2121891631,2121891631,212189163,18-24 years,Woman,Student (of university or vocational college),,,,,1,1.1680184442194046,None
+2121895931,2121895931,212189593,66 and more,Woman,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Marshrutka (local),15.0,3.75,1,0.5761899646958017,None
+2121895941,2121895941,212189594,25-35 years,Woman,"Unemployed, searching for job",Secondary School,Walking,30.0,7.5,1,1.0405488309535824,None
+2121899941,2121899941,212189994,25-35 years,Woman,Working at full time job(s),Health center/Doctor,Bus (local bus),90.0,22.5,1,1.0405488309535824,None
+2121911841,2121911841,212191184,66 and more,Man,"Retired, not working",Free canteen for the socially vulnerable people,Walking,20.0,5.0,1,0.6578800871293811,None
+2121931931,2121931931,212193193,25-35 years,Woman,Housewife/ houseman,,,,,5,1.0405488309535824,None
+2121931932,2121931932,212193193,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),120.0,30.0,5,0.8987541627278769,None
+2121931934,2121931934,212193193,56-65 years,Man,Working at full time job(s),Usual workplace,Car as driver,30.0,7.5,5,0.9454076260111136,One
+2121931935,2121931935,212193193,25-35 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),30.0,7.5,5,1.0405488309535824,None
+2121931936,2121931936,212193193,25-35 years,Man,Working at full time job(s),Usual workplace,Car as driver,120.0,30.0,5,1.5166038838578633,None
+2121931941,2121931941,212193194,56-65 years,Woman,"Retired, not working",,,,,4,0.6254296922541548,None
+2121931942,2121931942,212193194,66 and more,Man,"Retired, not working",Sport and body-care activities,Bus (local bus),40.0,10.0,4,0.6578800871293811,None
+2121931943,2121931943,212193194,36-45 years,Man,Hard to answer,Courses/clubs/sections/other educational facilities,Bus (local bus),60.0,15.0,4,1.226524444430224,None
+2121931944,2121931944,212193194,36-45 years,Man,Working at full time job(s),Usual workplace,Marshrutka (local),50.0,12.5,4,1.226524444430224,None
+2121931961,2121931961,212193196,18-24 years,Man,Student (of university or vocational college),University,Bus (local bus),120.0,30.0,3,1.3467554790918572,None
+2121931962,2121931962,212193196,46-55 years,Man,Working at part time job(s),Usual workplace,Bus (local bus),150.0,37.5,3,1.318947547664047,None
+2121931963,2121931963,212193196,66 and more,Woman,"Retired, not working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),45.0,11.25,3,0.5761899646958017,None
+2121935471,2121935471,212193547,36-45 years,Woman,Housewife/ houseman,Usual workplace,Marshrutka (local),120.0,30.0,1,0.8182308142103268,None
+2121935481,2121935481,212193548,56-65 years,Woman,Housewife/ houseman,,,,,1,0.6254296922541548,None
+2121935491,2121935491,212193549,46-55 years,Woman,Housewife/ houseman,,,,,1,0.8987541627278769,None
+2121935501,2121935501,212193550,56-65 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),40.0,10.0,1,0.6254296922541548,None
+2121974821,2121974821,212197482,66 and more,Man,"Retired, not working",,,,,1,0.6578800871293811,None
+2121974831,2121974831,212197483,66 and more,Woman,Housewife/ houseman,Usual workplace,Marshrutka (local),15.0,3.75,1,0.5761899646958017,None
+2121974841,2121974841,212197484,46-55 years,Woman,Working at part time job(s),Usual workplace,Metro,20.0,5.0,1,0.8987541627278769,None
+2121974851,2121974851,212197485,46-55 years,Man,Working at full time job(s),Usual workplace,Car as passenger,90.0,22.5,2,1.318947547664047,One
+2121974852,2121974852,212197485,46-55 years,Man,Working at full time job(s),Usual workplace,Car as driver,75.0,18.75,2,1.318947547664047,One
+2121974861,2121974861,212197486,56-65 years,Other,Working at full time job(s),Usual workplace,Bus (local bus),45.0,11.25,2,0.6254296922541548,None
+2121974862,2121974862,212197486,56-65 years,Woman,Working at full time job(s),Usual workplace,Car as driver,12.0,3.0,2,0.6254296922541548,One
+2121979561,2121979561,212197956,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2121979562,2121979562,212197956,66 and more,Woman,"Retired, but working",,,,,2,0.5761899646958017,None
+2121979571,2121979571,212197957,18-24 years,Woman,Student (of university or vocational college),"Visiting home of other people (parents, relatives, friends etc)",Car as driver,20.0,5.0,3,1.1680184442194046,One
+2121979573,2121979573,212197957,18-24 years,Man,"Unemployed, searching for job",Sport and body-care activities,Bus (local bus),20.0,5.0,3,1.3467554790918572,One
+2121979574,2121979574,212197957,46-55 years,Woman,Housewife/ houseman,"Services and administrative needs (city service centers, banks, etc)",Walking,15.0,3.75,3,0.8987541627278769,One
+2121979581,2121979581,212197958,56-65 years,Woman,"Retired, not working","Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),30.0,7.5,2,0.6254296922541548,None
+2121979582,2121979582,212197958,56-65 years,Man,Working at part time job(s),Courses/clubs/sections/other educational facilities,Bus (local bus),35.0,8.75,2,0.9454076260111136,One
+2121979591,2121979591,212197959,25-35 years,Woman,Working at part time job(s),,,,,2,1.0405488309535824,None
+2121979592,2121979592,212197959,18-24 years,Man,Student (of university or vocational college),,,,,2,1.3467554790918572,None
+2121979601,2121979601,212197960,18-24 years,Woman,Student (of university or vocational college),Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),30.0,7.5,2,1.1680184442194046,None
+2121979602,2121979602,212197960,18-24 years,Man,Student (of university or vocational college),Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),30.0,7.5,2,1.3467554790918572,None
+2121979611,2121979611,212197961,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2121979621,2121979621,212197962,25-35 years,Woman,Working at part time job(s),Secondary School,Bus (local bus),30.0,7.5,2,1.0405488309535824,None
+2121979622,2121979622,212197962,14-15 years,Woman,Studying at school,Secondary School,Bus (local bus),40.0,10.0,2,0.6792175002843309,None
+2121984091,2121984091,212198409,56-65 years,Woman,"Retired, not working",,,,,2,0.6254296922541548,None
+2121984092,2121984092,212198409,56-65 years,Man,"Retired, not working",,,,,2,0.9454076260111136,None
+2121984481,2121984481,212198448,56-65 years,Man,"Unemployed, searching for job",,,,,1,0.9454076260111136,None
+2121984491,2121984491,212198449,25-35 years,Woman,Housewife/ houseman,,,,,2,1.0405488309535824,None
+2121984492,2121984492,212198449,25-35 years,Man,Working at full time job(s),Usual workplace,Car as driver,20.0,5.0,2,1.5166038838578633,One
+2121988861,2121988861,212198886,18-24 years,Woman,Housewife/ houseman,,,,,2,1.1680184442194046,None
+2121988862,2121988862,212198886,18-24 years,Man,Working at full time job(s),Usual workplace,Walking,40.0,10.0,2,1.3467554790918572,None
+2121995781,2121995781,212199578,66 and more,Woman,"Retired, not working",,,,,4,0.4336121379415606,None
+2121995782,2121995782,212199578,46-55 years,Woman,"Retired, not working",,,,,4,0.9803635972195814,None
+2121995783,2121995783,212199578,46-55 years,Woman,Housewife/ houseman,,,,,4,0.9803635972195814,None
+2121995784,2121995784,212199578,25-35 years,Man,Working at full time job(s),Health center/Doctor,Taxi passenger,20.0,5.0,4,2.441963403428145,None
+2122000091,2122000091,212200009,18-24 years,Woman,Both studying and working,Usual workplace,Walking,60.0,15.0,2,1.1680184442194046,None
+2122000094,2122000094,212200009,18-24 years,Man,Working at full time job(s),Usual workplace,Metro,30.0,7.5,2,1.3467554790918572,None
+2122000101,2122000101,212200010,18-24 years,Woman,Student (of university or vocational college),University,Walking,40.0,10.0,1,1.1680184442194046,None
+2122000111,2122000111,212200011,46-55 years,Man,Working at part time job(s),Usual workplace,Bus (local bus),60.0,15.0,2,1.318947547664047,None
+2122000114,2122000114,212200011,16-17 years,Woman,Studying at school,Secondary School,Marshrutka (local),30.0,7.5,2,0.9085998630188142,None
+2122000121,2122000121,212200012,25-35 years,Woman,"Unemployed, searching for job","Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),90.0,22.5,1,1.0405488309535824,None
+2122002131,2122002131,212200213,56-65 years,Woman,"Retired, not working",,,,,4,0.6176219872727928,None
+2122002132,2122002132,212200213,66 and more,Man,"Retired, not working",,,,,4,0.5046028507701832,None
+2122002133,2122002133,212200213,36-45 years,Man,"Retired, not working",,,,,4,1.08407325019841,None
+2122002134,2122002134,212200213,25-35 years,Woman,"Unemployed, searching for job",,,,,4,0.955779354453164,None
+2122047941,2122047941,212204794,36-45 years,Woman,Working at part time job(s),,,,,2,9.272475288187472,None
+2122047942,2122047942,212204794,16-17 years,Woman,Studying at school,Courses/clubs/sections/other educational facilities,Bus (local bus),30.0,7.5,2,5.9600316854111375,None
+2122052661,2122052661,212205266,66 and more,Man,"Retired, not working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),20.0,5.0,1,4.885387311284171,None
+2122056571,2122056571,212205657,56-65 years,Man,Working at full time job(s),"Visiting home of other people (parents, relatives, friends etc)","Ridehail passenger (services like Uber, Bolt, YandexTaxi etc.)",30.0,7.5,2,0.9454076260111136,One
+2122056572,2122056572,212205657,56-65 years,Woman,"Unemployed, searching for job","Visiting home of other people (parents, relatives, friends etc)",Car as driver,30.0,7.5,2,0.6254296922541548,One
+2122056581,2122056581,212205658,66 and more,Woman,"Retired, not working",Free canteen for the socially vulnerable people,Walking,30.0,7.5,1,0.5761899646958017,None
+2122056591,2122056591,212205659,18-24 years,Woman,Student (of university or vocational college),University,Bus (local bus),60.0,15.0,2,1.1680184442194046,None
+2122056592,2122056592,212205659,66 and more,Man,"Retired, not working",,,,,2,0.6578800871293811,None
+2122056601,2122056601,212205660,46-55 years,Woman,Housewife/ houseman,"Services and administrative needs (city service centers, banks, etc)",Walking,50.0,12.5,1,0.8987541627278769,None
+2122056611,2122056611,212205661,56-65 years,Woman,Working at full time job(s),Usual workplace,Car as passenger,20.0,5.0,2,0.6254296922541548,None
+2122056612,2122056612,212205661,66 and more,Man,Self-employed,Spouse's job,Car as driver,20.0,5.0,2,0.6578800871293811,One
+2122063381,2122063381,212206338,36-45 years,Man,Working at full time job(s),Usual workplace,Car as driver,20.0,5.0,3,1.226524444430224,One
+2122063382,2122063382,212206338,36-45 years,Woman,Working at full time job(s),,,,,3,0.8182308142103268,None
+2122063383,2122063383,212206338,18-24 years,Man,"Unemployed, not searching for job",,,,,3,1.3467554790918572,None
+2122063491,2122063491,212206349,25-35 years,Woman,"Unemployed, searching for job",Secondary School,Walking,10.0,2.5,1,1.0405488309535824,None
+2122063921,2122063921,212206392,18-24 years,Man,Working at full time job(s),Refused to answer,Car as driver,10.0,2.5,1,11.07114517211258,One
+2122063931,2122063931,212206393,46-55 years,Woman,Working at full time job(s),"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),30.0,7.5,1,8.23147982422885,None
+2122063941,2122063941,212206394,66 and more,Woman,"Retired, not working",Health center/Doctor,Car as passenger,60.0,15.0,1,4.44257048266213,None
+2122063951,2122063951,212206395,36-45 years,Woman,Housewife/ houseman,"Services and administrative needs (city service centers, banks, etc)",Walking,15.0,3.75,3,9.272475288187472,None
+2122063952,2122063952,212206395,16-17 years,Man,Studying at school,Ttutor/student,Bus (local bus),15.0,3.75,3,4.549992901594249,None
+2122063953,2122063953,212206395,36-45 years,Man,Working at full time job(s),Usual workplace,Intercity marshrutka (regional and long-distance),75.0,18.75,3,18.982593336235094,None
+2122162131,2122162131,212216213,25-35 years,Woman,Working at part time job(s),Secondary School,Walking,15.0,3.75,1,1.0405488309535824,None
+2122162141,2122162141,212216214,56-65 years,Woman,"Retired, not working","Services and administrative needs (city service centers, banks, etc)",Bus (local bus),30.0,7.5,2,0.6254296922541548,None
+2122162142,2122162142,212216214,16-17 years,Woman,Studying at school,Secondary School,Walking,15.0,3.75,2,0.9085998630188142,None
+2122162151,2122162151,212216215,36-45 years,Woman,Housewife/ houseman,Meeting a friend (on the street),Bus (local bus),30.0,7.5,1,0.8182308142103268,None
+2122162161,2122162161,212216216,56-65 years,Woman,"Retired, but working",Health center/Doctor,Bus (local bus),30.0,7.5,1,0.6254296922541548,None
+2122162171,2122162171,212216217,46-55 years,Woman,Working at part time job(s),Usual workplace,Bus (local bus),60.0,15.0,2,0.8987541627278769,None
+2122162172,2122162172,212216217,18-24 years,Woman,Working at full time job(s),University,Car as passenger,60.0,15.0,2,1.1680184442194046,None
+2122311871,2122311871,212231187,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),30.0,7.5,1,0.8987541627278769,One
+2122311881,2122311881,212231188,56-65 years,Woman,"Retired, not working",,,,,1,0.6254296922541548,None
+2122311891,2122311891,212231189,46-55 years,Woman,Working at full time job(s),,,,,2,0.8987541627278769,None
+2122311892,2122311892,212231189,56-65 years,Man,Working at full time job(s),Usual workplace,Car as driver,40.0,10.0,2,0.9454076260111136,One
+2122311901,2122311901,212231190,36-45 years,Woman,Working at full time job(s),Usual workplace,Car pickup (poputka),60.0,15.0,3,0.8182308142103268,None
+2122311902,2122311902,212231190,18-24 years,Man,Working at full time job(s),,,,,3,1.3467554790918572,None
+2122311903,2122311903,212231190,18-24 years,Woman,Working at part time job(s),University,Bus (local bus),30.0,7.5,3,1.1680184442194046,None
+2122339091,2122339091,212233909,14-15 years,Woman,Studying at school,Secondary School,Walking,20.0,5.0,1,0.6792175002843309,None
+2122339101,2122339101,212233910,25-35 years,Man,"Unemployed, searching for job",Domicile,Car as passenger,210.0,52.5,1,1.5166038838578633,None
+2122339111,2122339111,212233911,66 and more,Woman,Working at full time job(s),Usual workplace,Metro,30.0,7.5,1,0.5761899646958017,None
+2122341411,2122341411,212234141,25-35 years,Woman,Housewife/ houseman,,,,,1,1.0405488309535824,None
+2122341421,2122341421,212234142,46-55 years,Woman,Working at full time job(s),Refused to answer,Bus (local bus),15.0,3.75,2,0.8987541627278769,None
+2122341423,2122341423,212234142,25-35 years,Woman,Working at full time job(s),,,,,2,1.0405488309535824,None
+2122341431,2122341431,212234143,36-45 years,Woman,Housewife/ houseman,"Accompanying/picking kids to/from nursery, kindergarten",Bus (local bus),15.0,3.75,1,0.8182308142103268,None
+2122341441,2122341441,212234144,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2122341451,2122341451,212234145,25-35 years,Woman,Housewife/ houseman,"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),10.0,2.5,2,1.0405488309535824,None
+2122341452,2122341452,212234145,25-35 years,Man,Self-employed,,,,,2,1.5166038838578633,None
+2122341461,2122341461,212234146,36-45 years,Woman,Housewife/ houseman,,,,,3,0.8182308142103268,None
+2122341462,2122341462,212234146,46-55 years,Man,Working at full time job(s),,,,,3,1.318947547664047,None
+2122341464,2122341464,212234146,14-15 years,Man,Studying at school,,,,,3,0.8838452498329735,None
+2122344191,2122344191,212234419,36-45 years,Man,Working at part time job(s),,,,,1,1.226524444430224,None
+2122348291,2122348291,212234829,25-35 years,Woman,Housewife/ houseman,,,,,3,0.955779354453164,None
+2122348292,2122348292,212234829,56-65 years,Man,Working at full time job(s),Usual workplace,Car as driver,75.0,18.75,3,0.7599740695517776,One
+2122348293,2122348293,212234829,66 and more,Man,"Retired, not working",,,,,3,0.5046028507701832,None
+2122349231,2122349231,212234923,56-65 years,Woman,Housewife/ houseman,,,,,2,0.6176219872727928,None
+2122349232,2122349232,212234923,25-35 years,Man,Working at full time job(s),,,,,2,2.441963403428145,None
+2122355601,2122355601,212235560,56-65 years,Man,"Unemployed, searching for job",,,,,2,0.7599740695517776,None
+2122355602,2122355602,212235560,25-35 years,Man,"Unemployed, searching for job",,,,,2,2.441963403428145,None
+2122360631,2122360631,212236063,66 and more,Man,Working at full time job(s),,,,,2,0.5046028507701832,None
+2122360632,2122360632,212236063,56-65 years,Woman,"Retired, not working",,,,,2,0.6176219872727928,None
+2122365521,2122365521,212236552,18-24 years,Man,Both studying and working,"Visiting home of other people (parents, relatives, friends etc)",Marshrutka (local),30.0,7.5,1,1.3467554790918572,None
+2122365531,2122365531,212236553,56-65 years,Man,Working at full time job(s),Usual workplace,Metro,30.0,7.5,1,0.9454076260111136,None
+2122365541,2122365541,212236554,18-24 years,Woman,Student (of university or vocational college),University,Metro,40.0,10.0,1,1.1680184442194046,None
+2122365551,2122365551,212236555,25-35 years,Woman,Housewife/ houseman,Sport and body-care activities,Marshrutka (local),40.0,10.0,1,1.0405488309535824,None
+2122365561,2122365561,212236556,18-24 years,Man,Student (of university or vocational college),University,Metro,80.0,20.0,2,1.3467554790918572,None
+2122365562,2122365562,212236556,36-45 years,Woman,Working at part time job(s),,,,,2,0.8182308142103268,None
+2122365571,2122365571,212236557,46-55 years,Woman,Working at part time job(s),"Visiting home of other people (parents, relatives, friends etc)",Bus (local bus),90.0,22.5,1,0.8987541627278769,None
+2122365581,2122365581,212236558,46-55 years,Woman,Working at full time job(s),Usual workplace,Bus (local bus),60.0,15.0,1,0.8987541627278769,None
+2122372441,2122372441,212237244,18-24 years,Woman,Working at full time job(s),,,,,3,1.1680184442194046,None
+2122372442,2122372442,212237244,56-65 years,Woman,Housewife/ houseman,,,,,3,0.6254296922541548,None
+2122372443,2122372443,212237244,66 and more,Man,Working at full time job(s),,,,,3,0.6578800871293811,None
+2122378421,2122378421,212237842,56-65 years,Woman,"Retired, not working",,,,,3,0.6254296922541548,None
+2122378422,2122378422,212237842,66 and more,Man,"Retired, not working",Church/other service,Walking,15.0,3.75,3,0.6578800871293811,None
+2122378425,2122378425,212237842,16-17 years,Woman,"Unemployed, not searching for job",,,,,3,0.9085998630188142,None
+2122378801,2122378801,212237880,66 and more,Woman,"Retired, not working",,,,,1,0.4336121379415606,None
+2122382481,2122382481,212238248,56-65 years,Woman,Working at part time job(s),Usual workplace,Walking,60.0,15.0,1,0.6254296922541548,None
+2122384411,2122384411,212238441,66 and more,Man,"Retired, not working",,,,,1,0.6578800871293811,None
+2122385061,2122385061,212238506,56-65 years,Woman,"Retired, not working",,,,,1,0.6254296922541548,None
+2122391941,2122391941,212239194,56-65 years,Woman,Working at full time job(s),Health center/Doctor,Bus (local bus),90.0,22.5,2,0.6254296922541548,None
+2122391942,2122391942,212239194,25-35 years,Woman,Working at full time job(s),Health center/Doctor,Bus (local bus),90.0,22.5,2,1.0405488309535824,None
+2122393511,2122393511,212239351,66 and more,Man,"Retired, not working",,,,,2,0.5046028507701832,None
+2122393512,2122393512,212239351,66 and more,Woman,"Retired, not working",,,,,2,0.4336121379415606,None
+2122393781,2122393781,212239378,46-55 years,Man,Owner or business,Usual workplace,Car as driver,60.0,15.0,1,1.2956760710260384,One
+2122394651,2122394651,212239465,66 and more,Woman,Working at part time job(s),,,,,1,0.5761899646958017,None
+2122395351,2122395351,212239535,66 and more,Woman,"Retired, not working","Visiting home of other people (parents, relatives, friends etc)",Marshrutka (local),30.0,7.5,1,0.4336121379415606,None
+2122397611,2122397611,212239761,18-24 years,Woman,Student (of university or vocational college),,,,,1,1.1680184442194046,None
+2122398251,2122398251,212239825,36-45 years,Woman,"Retired, not working",,,,,1,0.8182308142103268,None
+2122403401,2122403401,212240340,46-55 years,Woman,Housewife/ houseman,,,,,2,0.9803635972195814,None
+2122403402,2122403402,212240340,46-55 years,Man,Owner or business,,,,,2,1.2956760710260384,None
+2122403561,2122403561,212240356,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2122405071,2122405071,212240507,66 and more,Man,"Retired, not working",,,,,1,0.6578800871293811,None
+2122407481,2122407481,212240748,56-65 years,Man,"Unemployed, searching for job",,,,,1,0.7599740695517776,None
+2122411881,2122411881,212241188,66 and more,Woman,"Retired, not working",,,,,1,0.4336121379415606,None
+2122417611,2122417611,212241761,25-35 years,Man,Working at full time job(s),Usual workplace,Car as passenger,40.0,10.0,1,1.5166038838578633,None
+2122422811,2122422811,212242281,66 and more,Man,"Retired, not working","Daily needs shopping (in small nearby stores, on street markets etc)",Car as driver,30.0,7.5,2,0.5046028507701832,One
+2122422812,2122422812,212242281,66 and more,Man,"Retired, not working",,,,,2,0.5046028507701832,None
+2122424091,2122424091,212242409,56-65 years,Woman,"Retired, not working",,,,,2,0.6176219872727928,None
+2122424092,2122424092,212242409,56-65 years,Man,"Unemployed, not searching for job",,,,,2,0.7599740695517776,None
+2122425311,2122425311,212242531,25-35 years,Woman,Working at full time job(s),,,,,1,1.0405488309535824,None
+2122425321,2122425321,212242532,25-35 years,Man,Working at full time job(s),Usual workplace,Car as driver,10.0,2.5,1,1.5166038838578633,One
+2122425331,2122425331,212242533,25-35 years,Man,Self-employed,Secondary School,Car as driver,30.0,7.5,1,1.5166038838578633,One
+2122425341,2122425341,212242534,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2122431511,2122431511,212243151,36-45 years,Woman,"Unemployed, searching for job",,,,,2,0.5708711729343885,None
+2122431512,2122431512,212243151,66 and more,Woman,"Retired, but working",,,,,2,0.4336121379415606,None
+2122439481,2122439481,212243948,66 and more,Man,"Retired, not working",,,,,1,0.6578800871293811,None
+2122461241,2122461241,212246124,25-35 years,Woman,Working at part time job(s),Usual workplace,Intercity marshrutka (regional and long-distance),30.0,7.5,1,1.0405488309535824,None
+2122461251,2122461251,212246125,36-45 years,Woman,Housewife/ houseman,"Restaurant, café or other socializing sites",Car as driver,90.0,22.5,3,0.8182308142103268,One
+2122461252,2122461252,212246125,16-17 years,Man,Studying at school,Secondary School,Car as passenger,30.0,7.5,3,0.9712376361785788,One
+2122461253,2122461253,212246125,18-24 years,Man,"Unemployed, searching for job",,,,,3,1.3467554790918572,None
+2122461261,2122461261,212246126,56-65 years,Man,Working at full time job(s),,,,,1,0.9454076260111136,None
+2122461271,2122461271,212246127,25-35 years,Woman,Housewife/ houseman,,,,,1,1.0405488309535824,None
+2122461281,2122461281,212246128,14-15 years,Woman,Studying at school,Courses/clubs/sections/other educational facilities,Bus (local bus),25.0,6.25,1,0.6792175002843309,None
+2122461291,2122461291,212246129,36-45 years,Woman,Working at full time job(s),Not usual workplace/ on some work tasks,Bus (local bus),20.0,5.0,1,0.8182308142103268,None
+2122461311,2122461311,212246131,66 and more,Woman,Working at full time job(s),,,,,1,0.5761899646958017,None
+2122471331,2122471331,212247133,56-65 years,Man,Working at part time job(s),Usual workplace,Car as driver,60.0,15.0,2,0.9454076260111136,One
+2122471332,2122471332,212247133,56-65 years,Woman,Housewife/ houseman,,,,,2,0.6254296922541548,None
+2122471341,2122471341,212247134,46-55 years,Woman,Working at part time job(s),Usual workplace,Metro,30.0,7.5,1,0.8987541627278769,None
+2122471351,2122471351,212247135,66 and more,Woman,"Retired, not working",,,,,1,0.5761899646958017,None
+2122481351,2122481351,212248135,25-35 years,Woman,Housewife/ houseman,Secondary School,Bus (local bus),7.0,1.75,1,1.0405488309535824,None
+2122481361,2122481361,212248136,25-35 years,Woman,Housewife/ houseman,,,,,1,1.0405488309535824,None
+2122481371,2122481371,212248137,16-17 years,Woman,Student (of university or vocational college),University,Bus (local bus),150.0,37.5,1,0.9085998630188142,None
+2122482061,2122482061,212248206,66 and more,Woman,"Retired, not working",Big shopping (in shopping malls / supermarkets / big markets / bazar),Car as passenger,30.0,7.5,1,0.5761899646958017,One
+2122482071,2122482071,212248207,25-35 years,Woman,"Unemployed, not searching for job",,,,,1,1.0405488309535824,None
+2122485221,2122485221,212248522,18-24 years,Man,"Unemployed, searching for job",,,,,1,1.3467554790918572,None
+2122488731,2122488731,212248873,18-24 years,Woman,Working at part time job(s),Usual workplace,Marshrutka (local),10.0,2.5,2,1.1680184442194046,None
+2122488732,2122488732,212248873,56-65 years,Woman,"Unemployed, not searching for job",,,,,2,0.6254296922541548,None
+2122488741,2122488741,212248874,25-35 years,Woman,Working at part time job(s),Usual workplace,Bus (local bus),30.0,7.5,1,1.0405488309535824,None
+2122488751,2122488751,212248875,46-55 years,Woman,"Unemployed, not searching for job",Big shopping (in shopping malls / supermarkets / big markets / bazar),Bus (local bus),5.0,1.25,1,0.8987541627278769,None
+2122492641,2122492641,212249264,46-55 years,Woman,Working at full time job(s),Usual workplace,Metro,45.0,11.25,2,0.8987541627278769,None
